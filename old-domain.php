@@ -82,7 +82,7 @@ width:180px;
 </head>
 <body>
     <div class="profile">
-	<h3>runlink.ga, redev.studio, redevs.ga 등의 도메인은 더이상 Unlink가 유지보수 하지 않습니다.</h3>
+	<h3>[test]runlink.ga, redev.studio, redevs.ga 등의 도메인은 더이상 Unlink가 유지보수 하지 않습니다.</h3>
         <h1>신규 주소 안내</h1>
     </div>
     <div class="intro">
