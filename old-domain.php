@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/c4986d1f0b.js"></script>
-    <title>잠시만요??</title>
+    <title>새로운 도메인으로의 이동</title>
     <script>
     </script>
     <style>
