@@ -13,15 +13,15 @@
     <div class="mb-16 lg:pr-5 lg:max-w-lg lg:mb-0">
       <div class="max-w-xl mb-6">
         <div>
-          <p class="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-teal-900 uppercase rounded-full bg-teal-accent-400">
-            Brand new
-          </p>
+<p class="inline-block px-3 py-px mb-4 text-xs tracking-wider text-indigo-100 uppercase rounded-full bg-indigo-400">
+Brand new
+</p>
         </div>
-        <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-          We will bring your<br class="hidden md:block" />
-          business
-          <span class="inline-block text-deep-purple-accent-400">online</span>
-        </h2>
+<h2 class="max-w-lg mb-6  text-3xl  tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
+We will bring your<br class="hidden md:block">
+business
+<span class="inline-block text-indigo-700">online</span>
+</h2>
         <p class="text-base text-gray-700 md:text-lg">
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
         </p>
@@ -44,7 +44,7 @@
         <div class="flex items-center mt-4">
           <button
             type="submit"
-            class="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
+            class="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-indigo-400 hover:bg-indigo-700 focus:shadow-outline focus:outline-none"
           >
             Subscribe
           </button>
