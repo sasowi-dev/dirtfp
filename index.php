@@ -7,7 +7,7 @@
 <?php include 'event.php';?>
 <?php include 'header.php';?>
 <div class="lg:2/6 xl:w-2/4 mt-20 lg:mt-40 lg:ml-16 text-left">
-            <div class="text-6xl font-semibold text-gray-900 leading-none">
+            <div class="text-4xl font-semibold text-gray-900 leading-none">
   <div class="mr-2 py-3 px-4 bg-indigo-700 rounded-bl-3xl rounded-tl-3xl rounded-tr-xl text-white">
              메시징의 변화를,
             </div>
