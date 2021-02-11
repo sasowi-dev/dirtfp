@@ -1,3 +1,4 @@
+<style>
 /* ––––––––––––––––––––––––––––––––––––––––––––––––––
     Based on: https://codepen.io/nickelse/pen/YGPJQG
     Influenced by: https://sproutsocial.com/
@@ -71,7 +72,6 @@
   }
 
   </style>
-</head>
 
 <body class="bg-gray-200 font-sans leading-normal tracking-normal">
 <nav class="relative bg-white border-b-2 border-gray-300 text-gray-900">
