@@ -3,7 +3,7 @@
 <link rel="icon" type="image/png" sizes="192x192"  href="https://www.withun.link/identity/android-chrome-192x192.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://www.withun.link/identity/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="https://www.withun.link/identity/favicon-16x16.png">
-<link rel="manifest" href="https://withun.link/identity/manifest.json">
+<link rel="manifest" href="https://withun.link/identity/site.webmanifest">
 <meta name="msapplication-TileColor" content="#1D4ED8">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@iconscout/unicons@3.0.6/css/line.css">
 <meta name="theme-color" content="#1D4ED8">
