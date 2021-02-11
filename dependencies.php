@@ -14,6 +14,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="https://www.withun.link/identity/favicon-16x16.png">
 <link rel="manifest" href="https://withun.link/identity/manifest.json">
 <meta name="msapplication-TileColor" content="#1D4ED8">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@iconscout/unicons@3.0.6/css/line.css">
 <meta name="msapplication-TileImage" content="identity/ms-icon-144x144.png">
 <meta name="theme-color" content="#1D4ED8">
 <title>Unlink | AI 리크봇, 위키, 아카이브, 모임챗 서비스</title>
