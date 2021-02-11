@@ -9,9 +9,9 @@
 <div class="lg:2/6 xl:w-2/4 mt-20 lg:mt-40 lg:ml-16 text-left">
             <div class="text-4xl font-semibold text-gray-900 leading-none">
 <img src="identity/slogan-1.png" alt="메시징의 변화를," class="h-14">
-<img src="identity/slogan-2.png" alt="삶으의 변화를," class="h-14">
+<img src="identity/slogan-2.png" alt="삶의 변화를," class="h-14">
   </div>
-            <div class="mt-6 text-xl font-light text-true-gray-500 antialiased">A better experience for yout attendees and less stress yout team.</div>
+            <div class="mt-6 text-xl font-light text-true-gray-500 antialiased">PaperCore는 여태껏 경험하지 못한 메시징과 글자의 가능성을 2020년부터 나타냈습니다. 그리고, 그 여정은 오늘까지도 이어집니다.</div>
             <button class="mt-6 px-8 py-4 rounded-full font-normal tracking-wide bg-indigo-700 text-white outline-none focus:outline-none hover:shadow-lg hover:from-blue-700 transition duration-200 ease-in-out">
               Download for Free
             </button>
