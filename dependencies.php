@@ -24,12 +24,12 @@
 <meta property="og:url" content="https://www.withun.link/">
 <meta property="og:title" content="PaperCore | 메시징의 변화를, 삶의 변화를.">
 <meta property="og:description" content="Unlink는 PaperCore의 패밀리입니다.">
-<meta property="og:image" content="https://www.withun.link/identity/ogimage.png">
+<meta property="og:image" content="https://www.withun.link/identity/papercore_new.png">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://www.withun.link/">
 <meta property="twitter:title" content="PaperCore | 메시징의 변화를, 삶의 변화를.">
 <meta property="twitter:description" content="Unlink는 PaperCore의 패밀리입니다.">
-<meta property="twitter:image" content="https://www.withun.link/identity/ogimage.png">
+<meta property="twitter:image" content="https://www.withun.link/identity/papercore_new.png">
 <link href="https://www.withun.link/code/unlinkui.css" rel="stylesheet">
 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 <script>
