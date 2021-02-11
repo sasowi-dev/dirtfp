@@ -12,7 +12,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="https://www.withun.link/identity/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="96x96" href="https://www.withun.link/identity/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="https://www.withun.link/identity/favicon-16x16.png">
-<link rel="manifest" href="https://www.withun.link/identity/manifest.json">
+<link rel="manifest" href="https://withun.link/identity/manifest.json">
 <meta name="msapplication-TileColor" content="#1D4ED8">
 <meta name="msapplication-TileImage" content="identity/ms-icon-144x144.png">
 <meta name="theme-color" content="#1D4ED8">
