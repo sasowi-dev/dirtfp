@@ -51,7 +51,7 @@
 
 <nav class="relative bg-white border-b-2 border-gray-300 text-gray-900">
   <div class="container mx-auto flex justify-between">
-    <div class="relative block p-4 lg:p-6 text-xl text-blue-600 font-bold">Logo</div>
+    <div class="relative block p-4 lg:p-6 text-xl text-blue-600 font-bold"><img src="https://withun.link/identity/Group%201.svg" class="h-5" alt="페이퍼코어 로고">PaperCore</div>
     <ul class="flex">
 	
       <!--Regular Link-->
