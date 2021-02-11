@@ -1,12 +1,4 @@
 <style>
-/* ––––––––––––––––––––––––––––––––––––––––––––––––––
-    Based on: https://codepen.io/nickelse/pen/YGPJQG
-    Influenced by: https://sproutsocial.com/
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-
-  /* #Mega Menu Styles
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .mega-menu {
     display: none;
     left: 0;
@@ -14,15 +6,9 @@
     text-align: left;
     width: 100%;
   }
-
-
-
-  /* #hoverable Class Styles
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .hoverable {
     position: static;
   }
-
   .hoverable > a:after {
     content: "\25BC";
     font-size: 10px;
@@ -30,15 +16,9 @@
     position: relative;
     top: -1px;
   }
-
   .hoverable:hover .mega-menu {
     display: block;
   }
-
-
-  /* #toggle Class Styles
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
-
   .toggleable > label:after {
     content: "\25BC";
     font-size: 10px;
@@ -46,23 +26,19 @@
     position: relative;
     top: -1px;
   }
-
   .toggle-input {
     display: none;
   }
   .toggle-input:not(checked) ~ .mega-menu {
     display: none;
   }
-
   .toggle-input:checked ~ .mega-menu {
     display: block;
   }
-
   .toggle-input:checked + label {
     color: white;
-    background: #2c5282; /*@apply bg-blue-800 */
+    background: #2c5282;
   }
-
   .toggle-input:checked ~ label:after {
     content: "\25B2";
     font-size: 10px;
@@ -73,7 +49,7 @@
 
   </style>
 
-<body class="bg-gray-200 font-sans leading-normal tracking-normal">
+<body class="bg-white leading-normal tracking-normal">
 <nav class="relative bg-white border-b-2 border-gray-300 text-gray-900">
   <div class="container mx-auto flex justify-between">
     <div class="relative block p-4 lg:p-6 text-xl text-blue-600 font-bold">Logo</div>
