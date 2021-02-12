@@ -1,15 +1,15 @@
-<div class="container mx-24 bg-white rounded shadow-lg">
-        <div class="px-12 py-6">
-          <div class="text-center">
-            <h1 class="font-normal text-3xl text-grey-darkest leading-loose my-3 w-full">함께하는 혁신, PaperCore와 함께.</h1>
-            <div class="w-full text-center">
-                <div class="max-w-sm mx-auto p-1 pr-0 flex items-center">
-<a href="mailto:partner-papercore@withun.link"><button class="appearance-none bg-indigo text-white text-base font-semibold tracking-wide uppercase p-3 rounded shadow hover:bg-indigo-light">페이퍼코어 파트너 시작하기</button></a>
-                </div>
+<div class="px-4 pt-3 pb-4 border-b -mx-4 border-gray-400">
+            <div class="max-w-xl mx-auto">
+                <h2 class="text-xl text-left inline-block font-semibold text-gray-800">함께하는 혁신, 함께하는 파트너.</h2>
+                <p class="text-gray-700 text-xs pl-px">
+                   페이퍼코어의 파트너가 되어 웹페이지의 방문율을 높여보세요.
+                </p>
+                    <div class="flex items-center">
+                        <input type="email" class="w-full px-2 py-4 mr-2  bg-gray-100 shadow-inner rounded-md border border-gray-400 focus:outline-none" placeholder="내 메일 주소" required="">
+                        <a href="mailto:partner@withun.link"><button class="bg-blue-600 text-gray-200 px-5 py-2 rounded shadow " style="margin-left: -7.8rem;">파트너 시작하기</button></a>
+                    </div>
             </div>
-          </div>
         </div>
-      </div>
 <footer class="bg-gray-800 pt-10 sm:mt-10 pt-10">
 <div class="max-w-6xl m-auto text-gray-800 flex flex-wrap justify-left">
 
