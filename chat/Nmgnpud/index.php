@@ -18,7 +18,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="description" content="모임챗으로 회원들과 대화하고 모여보세요!">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>모임챗 플러스 - #데모</title>
+  <title>모임챗 플러스 - #안녕! 모임챗!</title>
 <link rel="icon" href="../favicon.ico">
   <!-- Disable tap highlight on IE -->
   <meta name="msapplication-tap-highlight" content="no">
@@ -67,22 +67,17 @@
   <header class="mdl-layout__header mdl-color-text--white mdl-color--black">
 
     <div class="mdl-cell mdl-cell--12-col mdl-cell--12-col-tablet mdl-grid">
-  <h5>#<strong>모임챗 메인</strong></h5>
-      <div id="user-container">
-        <div hidden id="user-pic"></div>
-        <div hidden id="user-name"></div>
-        <button hidden id="sign-out" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--white">
-         로그아웃
-        </button>
-           <button hidden id="sign-in" class="mdl-js-ripple-effect mdl-button mdl-js-button mdl-button--raised mdl-color--white mdl-color-text--black googlesso">
-          <img src="https://i.imgur.com/ILEFZSl.png" width="18px" alt="Google Icon">Google로 로그인
-        </button>
-      </div>
+  <h5>#<strong>안녕! 모임챗!</strong></h5>
+<?php include '../container.php';?>
     </div>
   </header>
 <?php include '../menu.php';?>
   <main class="mdl-layout__content ">
+  <div class="moim-alert">그동안 감사했습니다.
 
+  <button id="moim-notice-viewer" onclick="showrule()" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
+  마지막 인사
+</button></div>
 
 	
 <!-- The Modal -->
@@ -94,7 +89,8 @@
   <a href="javascript:hiderule()">
     <span class="close">&times;</span>
     </a>
-    <p>규칙을 여기에 입력</p>  </div>
+	  <p>모임챗은 운영의 어려움으로 인해 더 이상 운영할 수 없다 판단되고 수익성이 없다 판단되어 결국 서비스 종료라는 길을 택하게 되었습니다. 비록 4개월이라는 짧은 시간이였지만, 이 실험적 프로젝트에 참여해주셔서 진심으로 감사했습니다. 모두 감사합니다!
+	  </p>  </div>
 
 </div>
 <script>
@@ -113,7 +109,7 @@
         <div class="mdl-card__supporting-text mdl-color-text--white">
           <div id="messages">
           </div>
-          <?php include '../editor.php';?>
+ <?php include '../editor.php';?>
         </div>
       </div>
 
