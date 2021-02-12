@@ -7,11 +7,9 @@
     </head>
 
     <body>
-	<?php include '../event.php'; ?>
 
-            <header  class="shadow bg-white index9 flex items-center justify-between flex-wrap p-6 sticky top-0"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <div class="flex items-center flex-shrink-0 text-black mr-6">
-<a href="index.php"><img src="leekbot-logo.png" class="logobox" alt="리크봇"></a></div>
+	<?php include '../event.php'; ?>
+<?php include '../header.php'; ?>
 <style>
 
 .index9{
@@ -47,7 +45,6 @@
 }
 </style>
 
-</header>
 
           <div class="container mx-auto px-6 sm:px-12 flex flex-col-reverse sm:flex-row items-center">
         <div class="sm:w-2/5 flex flex-col items-start mt-8 sm:mt-0">
@@ -102,6 +99,8 @@
  </p>
   </center>
     </section>
+		    <?php include '../footer.php'; ?>
 	  </body>
 
+	
 </html>
