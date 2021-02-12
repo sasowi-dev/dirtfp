@@ -23,6 +23,7 @@
                 </svg>
             </bottom>
           </div>
+    <img src="identity/StartOfPaperCore.svg" alt="페이퍼코어의 시작" class="h-14">
     <div class="relative w-1/2 m-8">
             <div class="border-r-2 border-gray-200 border-dotted absolute h-full top-0 z-0" style="left: 7px"></div>
             <ul class="list-none m-0 p-0">
