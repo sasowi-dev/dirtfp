@@ -1,3 +1,15 @@
+<div class="container mx-24 bg-white rounded shadow-lg">
+        <div class="px-12 py-6">
+          <div class="text-center">
+            <h1 class="font-normal text-3xl text-grey-darkest leading-loose my-3 w-full">함께하는 혁신, PaperCore와 함께.</h1>
+            <div class="w-full text-center">
+                <div class="max-w-sm mx-auto p-1 pr-0 flex items-center">
+<a href="mailto:partner-papercore@withun.link"><button class="appearance-none bg-indigo text-white text-base font-semibold tracking-wide uppercase p-3 rounded shadow hover:bg-indigo-light">페이퍼코어 파트너 시작하기</button></a>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
 <footer class="bg-gray-800 pt-10 sm:mt-10 pt-10">
 <div class="max-w-6xl m-auto text-gray-800 flex flex-wrap justify-left">
 
