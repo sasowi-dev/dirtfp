@@ -1,9 +1,9 @@
 <span class="sending">
-          <form id="message-form" class=" sending" action="#">
+          <form id="message-form" class=" sending" action="#" disabled>
 		  
-         <input id="mediaCapture" type="file" accept="image/*" capture="camera">
+         <input id="mediaCapture" type="file" accept="image/*" capture="camera" disabled>
             
-                 <button id="submitImage" style="padding:5px;" class="mdl-button mdl-js-button mdl-button--icon mdl-button">
+                 <button id="submitImage" style="padding:5px;" class="mdl-button mdl-js-button mdl-button--icon mdl-button" disabled>
   <i class="material-icons">add_circle</i>
 </button>
 </input>
@@ -13,11 +13,11 @@
               
        
             </div>
-               <button id="submit" style="padding:5px;" class="mdl-button mdl-js-button mdl-button--icon mdl-button">
+               <button id="submit" style="padding:5px;" class="mdl-button mdl-js-button mdl-button--icon mdl-button" disabled>
   <i class="material-icons">send</i>
    
 </button>
            
           </form>
-<form id="image-form"/>
+<form id="image-form" disabled/>
           </span>
