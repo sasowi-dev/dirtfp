@@ -151,17 +151,19 @@
       </div>
     </nav>
 <div>
-  <div class="text-center flex flex-col p-4 md:text-left md:flex-row md:items-center md:justify-between md:p-12 bg-purple-100 rounded-md">
-    <div class="text-2xl font-semibold">
-      <div class="text-gray-900">기부를 시작하여 페이퍼코어의 서버비를 도와주세요!</div>
-      <div class="text-purple-500">페이퍼코어가 2021년 1분기(2021.03까지)까지 필요한 기부금액은 40,000원입니다. 기프트카드, 문화상품권, BitCoin으로 기부하세요.</div>
-    </div>
-
-    <div class="mt-3 md:mt-0 md:ml-2">
-	    <a href="https://open.kakao.com/me/leek">
-      <div class="inline-block rounded-md text-lg font-semibold py-2 px-4 text-white bg-purple-500">
-        기부하기
-	  </div></a>
-    </div>
-  </div>
+<div class="text-center flex flex-col p-4 md:text-left md:flex-row md:items-center md:justify-between md:p-12 bg-purple-100 rounded-md">
+<div class="text-2xl font-semibold">
+<div class="text-gray-900">기부를 시작하여 페이퍼코어의 서버비를 도와주세요!</div>
+<div class="text-purple-500">페이퍼코어가 2021년 1분기(2021.03까지)까지 필요한 기부금액은 40,000원입니다. 기프트카드, 문화상품권, BitCoin으로 기부하세요.</div>
+    <div class="bg-gray-900 rounded h-6 mt-5" role="progressbar" :aria-valuenow="width" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50">
+                <div class="bg-blue-800 rounded h-6 text-center text-white text-sm transition" :style="`width: ${width}%; transition: width 2s;`" x-text="`${width}%`" style="width: 12.5%; transition: width 2s;">5000원</div>
+            </div>
+</div>
+<div class="mt-3 md:mt-0 md:ml-2">
+<a href="https://open.kakao.com/me/leek">
+<div class="inline-block rounded-md text-lg font-semibold py-2 px-4 text-white bg-purple-500">
+기부하기
+</div></a>
+</div>
+</div>
 </div>
