@@ -24,68 +24,38 @@
             </bottom>
           </div>
 <div class="mt-12 lg:mt-32 lg:ml-20 text-left relative w-2/3 m-8">
+    <img src="identity/StartOfPaperCore.svg">
 <div class="border-r-2 border-gray-200 border-dotted absolute h-full top-0 z-0" style="left: 7px"></div>
 <ul class="list-none m-0 p-0">
 <li class="mb-2">
 <div class="flex items-center mb-1">
 <div class="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10">
 </div>
-<div class="flex-1 ml-4 font-medium">Oct 2020 - Learn Electron JS</div>
+<div class="flex-1 ml-4 font-medium">2021년 2월 - 페이퍼코어, 새로운 시작.</div>
 </div>
-<div class="ml-12">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos tenetur, suscipit atque et
-nulla dolores unde maiores doloribus nemo possimus commodi totam consectetur temporibus odit
-velit illo repellendus provident vitae.
+<div class="ml-12">기존의 이미지에서 탈피한 새로운 웹 서비스와 여태껏 보지 못한 혁신들을 여기에서 선사합니다.
 </div>
 </li>
 <li class="mb-2">
 <div class="flex items-center mb-1">
 <div class="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10">
 </div>
-<div class="flex-1 ml-4 font-medium">May 2019 - Learn Golang</div>
+<div class="flex-1 ml-4 font-medium">2021년 1월 - the 스위치의 시작</div>
 </div>
-<div class="ml-12">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos tenetur, suscipit atque et
-nulla dolores unde maiores doloribus nemo possimus commodi totam consectetur temporibus odit
-velit illo repellendus provident vitae.
+<div class="ml-12">VPN의 안전과 가격이란 장점을 살려, 무료로 VPN과 DNS를 제공하기 시작했습니다. 미국과 유럽 리전에서 운영되는 광고차단 서비스입니다.
 </div>
 </li>
 <li class="mb-2">
 <div class="flex items-center mb-1">
 <div class="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10">
 </div>
-<div class="flex-1 ml-4 font-medium">April 2019 - Learn Photography</div>
+<div class="flex-1 ml-4 font-medium">2020년 10월 - 리크봇의 탄생</div>
 </div>
-<div class="ml-12">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos tenetur, suscipit atque et
-nulla dolores unde maiores doloribus nemo possimus commodi totam consectetur temporibus odit
-velit illo repellendus provident vitae.
+<div class="ml-12">봇계에 혁명을 불러일으킨 카카오톡 봇의 시작입니다.
 </div>
 </li>
-<li class="mb-2">
-<div class="flex items-center mb-1">
-<div class="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10">
-</div>
-<div class="flex-1 ml-4 font-medium">Feb 2018 - Learn Laravel</div>
-</div>
-<div class="ml-12">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos tenetur, suscipit atque et
-nulla dolores unde maiores doloribus nemo possimus commodi totam consectetur temporibus odit
-velit illo repellendus provident vitae.
-</div>
-</li>
-<li class="mb-2">
-<div class="flex items-center mb-1">
-<div class="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10">
-</div>
-<div class="flex-1 ml-4 font-medium">May 2017 - Learn PHP</div>
-</div>
-<div class="ml-12">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos tenetur, suscipit atque et
-nulla dolores unde maiores doloribus nemo possimus commodi totam consectetur temporibus odit
-velit illo repellendus provident vitae.
-</div>
-</li>
+
+
 </ul>
 </div>
 <?php include 'footer.php';?>
