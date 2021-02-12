@@ -22,7 +22,7 @@ dialog[open] { -webkit-animation-duration:0.3s; animation-duration:0.3s; -webkit
 dialog::backdrop { background: rgba(0, 0, 0, 0.3); backdrop-filter: blur(3px); -webkit-animation-duration:0.3s; animation-duration:0.3s; -webkit-animation-fill-mode:both; animation-fill-mode:both; -webkit-animation-name:fadeIn; animation-name:fadeIn  }
 </style>
 
-<div class="w-screen h-screen bg-gray-100 flex items-center justify-center px-5 py-5 relative" x-data="{showCookieBanner:true}">
+<div class="w-screen h-16 bg-gray-100 flex items-center justify-center px-5 py-5 relative" x-data="{showCookieBanner:true}">
     <section class="w-full p-5 lg:px-24 absolute top-0 bg-gray-600" x-show="showCookieBanner">
         <div class="md:flex items-center -mx-3">
             <div class="md:flex-1 px-3 mb-5 md:mb-0">
