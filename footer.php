@@ -9,6 +9,7 @@
                         <a href="mailto:partner@withun.link"><button class="bg-blue-600 text-gray-200 px-5 py-2 rounded shadow " style="margin-left: -7.8rem;">시작하기</button></a>
                     </div>
         </div>
+</div>
 <footer class="bg-gray-800 pt-10 sm:mt-10 pt-10">
 <div class="max-w-6xl m-auto text-gray-800 flex flex-wrap justify-left">
 
