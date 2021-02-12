@@ -19,10 +19,10 @@
 <meta property="twitter:title" content="PaperCore | 메시징의 변화를, 삶의 변화를.">
 <meta property="twitter:description" content="Unlink는 PaperCore의 패밀리입니다.">
 <meta property="twitter:image" content="https://www.withun.link/identity/papercore_new.png">
-<link href="https://www.withun.link/code/unlinkui.css" rel="stylesheet">
+<!--<link href="https://www.withun.link/code/unlinkui.css" rel="stylesheet">-->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
-
+<!--
 <script>
 var brand="PaperCore";0===location.pathname.indexOf("dependencies")?document.title=brand+" | 중요 파일! 접근 금지!!":0===location.pathname.indexOf("/store.php")?document.title=brand+" | 다운로드 스토어":0===location.pathname.indexOf("/chat")?document.title=brand+" | 모임챗":0===location.pathname.indexOf("/leek")?document.title=brand+" | 리크봇":0===location.pathname.indexOf("/chat")?document.title=brand+" | 모임챗":0===location.pathname.indexOf("/covidr")||0===location.pathname.indexOf("/hcs")?document.title=brand+" | 코로나19":"/"===location.pathname?document.title=brand+" | 홈":document.title=brand;
-</script>
+</script>-->
 
