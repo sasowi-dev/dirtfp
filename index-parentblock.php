@@ -12,7 +12,7 @@
     <div>
       <section class="xl:bg-contain bg-top bg-no-repeat" style="background-image: url('adless/metis-assets/backgrounds/intersect.svg');">
         <div class="container px-4 mx-auto">
-          <nav class="flex justify-between items-center py-6"><a class="text-3xl font-semibold leading-none" href="#"> <img src="adless/images/unlink-mini.svg" alt="" width="50"></a>
+          <nav class="flex justify-between items-center py-6"><a class="text-3xl font-semibold leading-none" href="#"> <img src="https://withun.link/identity/Group%201.svg" alt="" width="50"></a>
             <div class="lg:hidden">
               <button class="navbar-burger flex items-center py-2 px-3 text-blue-600 hover:text-blue-700 rounded border border-blue-200 hover:border-blue-300">
                 <svg class="fill-current h-4 w-4" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
