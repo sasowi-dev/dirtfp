@@ -20,6 +20,8 @@
 <meta property="twitter:description" content="Unlink는 PaperCore의 패밀리입니다.">
 <meta property="twitter:image" content="https://www.withun.link/identity/papercore_new.png">
 <link href="https://www.withun.link/code/unlinkui.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/base.min.css" rel="stylesheet">
+
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/components.min.css" rel="stylesheet">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/utilities.min.css" rel="stylesheet">
 <script>
