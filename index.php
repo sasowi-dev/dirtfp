@@ -13,7 +13,7 @@
   </div>
             <div class="mt-6 text-xl font-light text-true-gray-500 antialiased">PaperCore는 여태껏 경험하지 못한 메시징과 글자의 가능성을 2020년부터 나타냈습니다. 그리고, 그 여정은 오늘까지도 이어집니다.</div>
             <button class="mt-6 px-8 py-4 rounded-full font-normal tracking-wide bg-indigo-700 text-white outline-none focus:outline-none hover:shadow-lg hover:from-blue-700 transition duration-200 ease-in-out">
-              Download for Free
+              자세히 알아보기
             </button>
           </div>
    <div class="mt-12 lg:mt-32 lg:ml-20 text-left">
@@ -23,6 +23,71 @@
                 </svg>
             </bottom>
           </div>
+    <div class="relative w-1/2 m-8">
+            <div class="border-r-2 border-gray-200 border-dotted absolute h-full top-0 z-0" style="left: 7px"></div>
+            <ul class="list-none m-0 p-0">
+                <li class="mb-2">
+                    <div class="flex items-center mb-1">
+                        <div class="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10">
+                        </div>
+                        <div class="flex-1 ml-4 font-medium">Oct 2020 - Learn Electron JS</div>
+                    </div>
+                    <div class="ml-12">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos tenetur, suscipit atque et
+                        nulla dolores unde maiores doloribus nemo possimus commodi totam consectetur temporibus odit
+                        velit illo repellendus provident vitae.
+                    </div>
+                </li>
+                <li class="mb-2">
+                    <div class="flex items-center mb-1">
+                        <div class="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10">
+                        </div>
+                        <div class="flex-1 ml-4 font-medium">May 2019 - Learn Golang</div>
+                    </div>
+                    <div class="ml-12">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos tenetur, suscipit atque et
+                        nulla dolores unde maiores doloribus nemo possimus commodi totam consectetur temporibus odit
+                        velit illo repellendus provident vitae.
+                    </div>
+                </li>
+                <li class="mb-2">
+                    <div class="flex items-center mb-1">
+                        <div class="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10">
+                        </div>
+                        <div class="flex-1 ml-4 font-medium">April 2019 - Learn Photography</div>
+                    </div>
+                    <div class="ml-12">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos tenetur, suscipit atque et
+                        nulla dolores unde maiores doloribus nemo possimus commodi totam consectetur temporibus odit
+                        velit illo repellendus provident vitae.
+                    </div>
+                </li>
+                <li class="mb-2">
+                    <div class="flex items-center mb-1">
+                        <div class="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10">
+                        </div>
+                        <div class="flex-1 ml-4 font-medium">Feb 2018 - Learn Laravel</div>
+                    </div>
+                    <div class="ml-12">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos tenetur, suscipit atque et
+                        nulla dolores unde maiores doloribus nemo possimus commodi totam consectetur temporibus odit
+                        velit illo repellendus provident vitae.
+                    </div>
+                </li>
+                <li class="mb-2">
+                    <div class="flex items-center mb-1">
+                        <div class="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10">
+                        </div>
+                        <div class="flex-1 ml-4 font-medium">May 2017 - Learn PHP</div>
+                    </div>
+                    <div class="ml-12">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos tenetur, suscipit atque et
+                        nulla dolores unde maiores doloribus nemo possimus commodi totam consectetur temporibus odit
+                        velit illo repellendus provident vitae.
+                    </div>
+                </li>
+            </ul>
+        </div>
 <?php include 'footer.php';?>
 </body>
 </html>
