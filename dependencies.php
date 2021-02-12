@@ -1,4 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script data-ad-client="ca-pub-3808496003691786" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <link rel="apple-touch-icon" sizes="180.180" href="https://withun.link/identity/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="192x192"  href="https://www.withun.link/identity/android-chrome-192x192.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://www.withun.link/identity/favicon-32x32.png">
