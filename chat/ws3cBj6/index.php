@@ -18,7 +18,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="description" content="모임챗으로 회원들과 대화하고 모여보세요!">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>모임챗 플러스 - #데모</title>
+  <title>모임챗 플러스 - #안녕! 모임챗!</title>
 <link rel="icon" href="../favicon.ico">
   <!-- Disable tap highlight on IE -->
   <meta name="msapplication-tap-highlight" content="no">
@@ -67,16 +67,16 @@
   <header class="mdl-layout__header mdl-color-text--white mdl-color--black">
 
     <div class="mdl-cell mdl-cell--12-col mdl-cell--12-col-tablet mdl-grid">
-  <h5>#<strong>사용 신청하기</strong></h5>
+  <h5>#<strong>안녕! 모임챗!</strong></h5>
 <?php include '../container.php';?>
     </div>
   </header>
 <?php include '../menu.php';?>
   <main class="mdl-layout__content ">
-  <div class="moim-alert">"사용 신청하기 모임챗"의 규칙을 읽어 주세요!
+  <div class="moim-alert">그동안 감사했습니다.
 
   <button id="moim-notice-viewer" onclick="showrule()" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
-  지금 읽기
+  마지막 인사
 </button></div>
 
 	
@@ -89,7 +89,8 @@
   <a href="javascript:hiderule()">
     <span class="close">&times;</span>
     </a>
-    <p><h1>사용 신청하기</h1>모임챗은 언링크의 홈서버로 24시간 365일 운영되고 있습니다. 따라서 이자리에 당신의 모임챗을 세운다는것은 참 기념비적인 일입니다.<br>그러나 현재는 없지만 나중엔 이 채팅을 악용하는 유저가 점차 늘어날것이고 이에 따라 마땅한 가이드라인을 제시해야 합니다. 그래서, 이번엔 모임챗 생성 자격 요건을 안내드리겠습니다.<br><h5>기본적인 규칙</h5><ul><li>방의 주제가 운영정책에 위배되어선 안됩니다.</li><li>방의 개설자는 최근 6개월 내 반정부 사이트 및 음란물 배포 사이트에 접속한 기록이 없어야 합니다.( 일간 베스트 저장소 등)</li><li>방의 개설자는 언제나 이 방 개설 채팅에서 연락이 가능해야 하며 만약 이에 불응하고 6개월간 대화내용이 없다면 무기한 이용자 보호조치가 시행됩니다.</li></ul>이를 모두 읽고도 모임챗 사용 신청을 원하신다면 아래 신청란으로 신청해 주세요. 저희는 따뜻하게 당신을 맞을 준비가 되었습니다. 자! 이제 이 창을 닫고 신청을 시작해 보세요.</p>  </div>
+	  <p>모임챗은 운영의 어려움으로 인해 더 이상 운영할 수 없다 판단되고 수익성이 없다 판단되어 결국 서비스 종료라는 길을 택하게 되었습니다. 비록 4개월이라는 짧은 시간이였지만, 이 실험적 프로젝트에 참여해주셔서 진심으로 감사했습니다. 모두 감사합니다!
+	  </p>  </div>
 
 </div>
 <script>
@@ -108,7 +109,7 @@
         <div class="mdl-card__supporting-text mdl-color-text--white">
           <div id="messages">
           </div>
-          <?php include '../editor.php';?>
+ <?php include '../editor.php';?>
         </div>
       </div>
 
