@@ -92,15 +92,15 @@
                   <div class="flex items-center"> <svg class="h-8 mb-3 mr-3 fill-current text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20" stroke="currentColor">
   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
 </svg>
-                    <h3 class="font-bold text-xl text-white text-bold mb-2">모임챗</h3>
+                    <h3 class="font-bold text-xl text-white text-bold mb-2">Coming Soon</h3>
                   </div>
-                  <p class="text-gray-100 text-sm">간단한 로그인으로 시작하는 인증과 조작없는 채팅, 모임챗.</p>
+                  <p class="text-gray-100 text-sm">Coming Soon</p>
                   <div class="flex items-center py-3">
                     <svg class="h-6 pr-3 fill-current text-blue-300"
                       xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                       <path d="M20 10a10 10 0 1 1-20 0 10 10 0 0 1 20 0zm-2 0a8 8 0 1 0-16 0 8 8 0 0 0 16 0zm-8 2H5V8h5V5l5 5-5 5v-3z"/>
                     </svg>
-                    <a href="https://withun.link/chat" class="text-white bold border-b-2 border-blue-300 hover:text-blue-300">더 알아보기</a>
+                    <a href="https://withun.link/#" class="text-white bold border-b-2 border-blue-300 hover:text-blue-300">Coming Soon</a>
                   </div>
                 </ul>
                 <ul class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-b-0 sm:border-r md:border-b-0 pb-6 pt-6 lg:pt-3">
