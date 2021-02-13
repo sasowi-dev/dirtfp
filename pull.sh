@@ -1,0 +1,1 @@
+cd /home/pi/withunlink-pi && sudo git pull
