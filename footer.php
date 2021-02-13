@@ -6,7 +6,6 @@
 <div class="text-xs uppercase text-gray-400 font-medium mb-6">페이퍼코어 패밀리</div>
 
 <a href="https://withun.link/leek" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">리크봇</a>
-<a href="https://withun.link/chat" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">모임챗</a>
 <a href="https://withun.link/dev" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">PaperCore Developers</a>
 <a href="https://withun.link/ad" class="my-3 block text-gray-300 hover:text-gray-100 text-sm font-medium duration-700">광고</a>
 
