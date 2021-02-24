@@ -179,7 +179,7 @@
 </h1>
     </section>
 <script>
-for (var i = 0; i < 100; i++) {
+/*for (var i = 0; i < 100; i++) {
   var star =
     '<div class="star m-0" style="animation: twinkle ' +
     (Math.random() * 5 + 5) +
@@ -191,7 +191,7 @@ for (var i = 0; i < 100; i++) {
     Math.random() * $(window).width() +
     'px;"></div>';
   $('.homescreen').append(star);
-}
+}*/
 
 </script>
 
