@@ -60,7 +60,7 @@
 	
       <!--Regular Link-->
 	    
-      <li class="hover:bg-blue-800 hover:text-white">
+      <li class="hover:bg-blue-800 hover:text-white flex">
         <a href="https://github.com/papercore-dev" class="relative block py-6 px-2 lg:p-6 text-sm lg:text-base font-bold"><img src="socialicons/gh-mini.png" alt="깃허브 옥토캣" class="socialicons flex">GitHub</a>
       </li>	
 		  
@@ -79,8 +79,10 @@
                     <h3 class="font-bold text-xl text-white text-bold mb-2">리크봇</h3>
                   </div>
                   <p class="text-gray-100 text-sm">50명이 신뢰한 카카오톡 메신저 봇.</p>
-                  <div class="flex items-center py-3">
-                    <img class="h-8 mb-3 mr-3 fill-current text-white" src="identity/lkbt.svg">
+                  <div class="flex items-center py-3">                <svg class="h-6 pr-3 fill-current text-blue-300"
+                      xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                      <path d="M20 10a10 10 0 1 1-20 0 10 10 0 0 1 20 0zm-2 0a8 8 0 1 0-16 0 8 8 0 0 0 16 0zm-8 2H5V8h5V5l5 5-5 5v-3z"/>
+                    </svg>
                     <a href="https://withun.link/leek" class="text-white bold border-b-2 border-blue-300 hover:text-blue-300">더 알아보기</a>
                   </div>
                 </ul>
