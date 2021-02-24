@@ -61,9 +61,8 @@
       <!--Regular Link-->
 	    
       <li class="hover:bg-blue-800 hover:text-white">
-        <a href="#" class="relative block py-6 px-2 lg:p-6 text-sm lg:text-base font-bold"><img src="socialicons/gh-mini.png" alt="깃허브 옥토캣" class="socialicons">GitHub</a>
-      </li>
-	
+        <a href="https://github.com/papercore-dev" class="relative block py-6 px-2 lg:p-6 text-sm lg:text-base font-bold"><img src="socialicons/gh-mini.png" alt="깃허브 옥토캣" class="socialicons flex">GitHub</a>
+      </li>	
 		  
           <!--Hoverable Link-->
           <li class="hoverable hover:bg-indigo-800 hover:text-white">
@@ -76,44 +75,34 @@
                 </div>
                 <ul class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-r lg:border-b-0 pb-6 pt-6 lg:pt-3">
                   <div class="flex items-center">
-                    <svg class="h-8 mb-3 mr-3 fill-current text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20" stroke="currentColor">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-</svg>
+                    <img class="h-8 mb-3 mr-3 fill-current text-white" src="identity/lkbt.svg">
                     <h3 class="font-bold text-xl text-white text-bold mb-2">리크봇</h3>
                   </div>
-                  <p class="text-gray-100 text-sm">반년간 함께한, 반년간 함께할 방의 활력 충전 AI 봇.</p>
+                  <p class="text-gray-100 text-sm">50명이 신뢰한 카카오톡 메신저 봇.</p>
                   <div class="flex items-center py-3">
-                    <svg class="h-6 pr-3 fill-current text-blue-300"
-                      xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                      <path d="M20 10a10 10 0 1 1-20 0 10 10 0 0 1 20 0zm-2 0a8 8 0 1 0-16 0 8 8 0 0 0 16 0zm-8 2H5V8h5V5l5 5-5 5v-3z"/>
-                    </svg>
+                    <img class="h-8 mb-3 mr-3 fill-current text-white" src="identity/lkbt.svg">
                     <a href="https://withun.link/leek" class="text-white bold border-b-2 border-blue-300 hover:text-blue-300">더 알아보기</a>
                   </div>
                 </ul>
                 <ul class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-r-0 lg:border-r lg:border-b-0 pb-6 pt-6 lg:pt-3">
-                  <div class="flex items-center"> <svg class="h-8 mb-3 mr-3 fill-current text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20" stroke="currentColor">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
-</svg>
-                    <h3 class="font-bold text-xl text-white text-bold mb-2">Coming Soon</h3>
+                  <div class="flex items-center"> <img class="h-8 mb-3 mr-3 fill-current text-white" src="identity/dman.svg">
+                    <h3 class="font-bold text-xl text-white text-bold mb-2">도메인</h3>
                   </div>
-                  <p class="text-gray-100 text-sm">Coming Soon</p>
+                  <p class="text-gray-100 text-sm">페이퍼코어가 보유한 다양한 도메인으로 나만의 웹페이지를 만들어보세요.</p>
                   <div class="flex items-center py-3">
                     <svg class="h-6 pr-3 fill-current text-blue-300"
                       xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                       <path d="M20 10a10 10 0 1 1-20 0 10 10 0 0 1 20 0zm-2 0a8 8 0 1 0-16 0 8 8 0 0 0 16 0zm-8 2H5V8h5V5l5 5-5 5v-3z"/>
                     </svg>
-                    <a href="https://withun.link/#" class="text-white bold border-b-2 border-blue-300 hover:text-blue-300">Coming Soon</a>
+                    <a href="https://withun.link/#" class="text-white bold border-b-2 border-blue-300 hover:text-blue-300">내 도메인 얻기</a>
                   </div>
                 </ul>
-                <ul class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-b-0 sm:border-r md:border-b-0 pb-6 pt-6 lg:pt-3">
+               <!-- <ul class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-b-0 sm:border-r md:border-b-0 pb-6 pt-6 lg:pt-3">
                   <div class="flex items-center">
-                    <svg class="h-8 mb-3 mr-3 fill-current text-white"
-                      xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                      <path d="M2 4v14h14v-6l2-2v10H0V2h10L8 4H2zm10.3-.3l4 4L8 16H4v-4l8.3-8.3zm1.4-1.4L16 0l4 4-2.3 2.3-4-4z"/>
-                    </svg>
-                    <h3 class="font-bold text-xl text-white text-bold mb-2">Unlink Developers</h3>
+                    <img class="h-8 mb-3 mr-3 fill-current text-white" src="identity/gitb.svg">
+                    <h3 class="font-bold text-xl text-white text-bold mb-2">Developers</h3>
                   </div>
-                  <p class="text-gray-100 text-sm">페이퍼코어와 함께하는 개발 API와 코딩 가이드</p>
+                  <p class="text-gray-100 text-sm">임시</p>
                   <div class="flex items-center py-3">
                     <svg class="h-6 pr-3 fill-current text-blue-300"
                       xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
@@ -138,7 +127,7 @@
                     </svg>
                     <a href="#" class="text-white bold border-b-2 border-blue-300 hover:text-blue-300">Coming Soon</a>
                   </div>
-                </ul>
+                </ul>-->
               </div>
             </div>
           </li>
