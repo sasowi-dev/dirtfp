@@ -39,12 +39,13 @@
 </style>
 
 <section
-      class="homescreen m-0 flex flex-col w-screen justify-center bg-gray-800 h-screen text-gray-100 "
+      class="homescreen m-0 flex flex-col w-screen justify-center bg-gray-800 h-80 text-gray-100  "
     >
 
-      <h1 class="text-6xl  my-auto mx-auto  md:mx-48 ">
-<img src="identity/sg.svg" alt="메시징의 변화를, 삶의 변화를. 2018년부터 시작된 그 여정으로 오픈소스와 소프트웨어 사용자들에게 더 나은 선택을 드립">
-      </h1>
+<h1 class="text-6xl  my-auto mx-auto  md:mx-48 ">
+<span class="inline-block rounded-full text-white bg-indigo-500 px-2 py-1 font-bold mr-3">메시징</span>의 변화,<br><span class="text-purple-500"><strong>삶의 변화.</strong></span><br>
+    <span class="inline-block rounded-full text-gray-600 bg-gray-100 px-2 py-1 text-sm mr-3">2018년부터 시작된 그 여정으로 오픈소스와 소프트웨어 사용자들에게 더 나은 선택을 드립니다.</span>
+</h1>
     </section>
 <script>
 for (var i = 0; i < 100; i++) {
