@@ -61,7 +61,7 @@
       <!--Regular Link-->
 	    
       <li class="hover:bg-blue-800 hover:text-white flex">
-        <a href="https://github.com/papercore-dev" class="relative block py-6 px-2 lg:p-6 text-sm lg:text-base font-bold"><img src="socialicons/gh-mini.png" alt="깃허브 옥토캣" class="socialicons flex">GitHub</a>
+        <a href="https://github.com/papercore-dev" class="flex relative block py-6 px-2 lg:p-6 text-sm lg:text-base font-bold"><img src="socialicons/gh-mini.png" alt="깃허브 옥토캣" class="socialicons flex">GitHub</a>
       </li>	
 		  
           <!--Hoverable Link-->
