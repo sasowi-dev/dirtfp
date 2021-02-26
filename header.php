@@ -75,7 +75,7 @@
                 </div>
                 <ul class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-r lg:border-b-0 pb-6 pt-6 lg:pt-3">
                   <div class="flex items-center">
-                    <img class="h-8 mb-3 mr-3 fill-current text-white" src="https://withun.link/identity/identity/lkbt.svg">
+                    <img class="h-8 mb-3 mr-3 fill-current text-white" src="https://withun.link/identity/lkbt.svg">
                     <h3 class="font-bold text-xl text-white text-bold mb-2">리크봇</h3>
                   </div>
                   <p class="text-gray-100 text-sm">50명이 신뢰한 카카오톡 메신저 봇.</p>
@@ -87,7 +87,7 @@
                   </div>
                 </ul>
                 <ul class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-r-0 lg:border-r lg:border-b-0 pb-6 pt-6 lg:pt-3">
-                  <div class="flex items-center"> <img class="h-8 mb-3 mr-3 fill-current text-white" src="https://withun.link/identity/identity/dman.svg">
+                  <div class="flex items-center"> <img class="h-8 mb-3 mr-3 fill-current text-white" src="https://withun.link/identity/dman.svg">
                     <h3 class="font-bold text-xl text-white text-bold mb-2">도메인</h3>
                   </div>
                   <p class="text-gray-100 text-sm">페이퍼코어가 보유한 다양한 도메인으로 나만의 웹페이지를 만들어보세요.</p>
