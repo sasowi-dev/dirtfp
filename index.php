@@ -8,31 +8,11 @@
 <?php include 'event.php';?>
 <?php include 'header.php';?>
 <style>
-.star {
-  position: absolute;
-  width: 2px;
-  height: 2px;
-  border-radius: 5px;
-}
 
-@keyframes twinkle {
-  0% {
-    transform: scale(1, 1);
-    background: rgba(255, 255, 255, 0);
-    animation-timing-function: linear;
-  }
-  40% {
-    transform: scale(0.8, 0.8);
-    background: rgba(255, 255, 255, 1);
-    animation-timing-function: ease-out;
-  }
-  80% {
-    background: rgba(255, 255, 255, 0);
-    transform: scale(1, 1);
-  }
-  100% {
-    background: rgba(255, 255, 255, 0);
-    transform: scale(1, 1);
+@layer utilities {
+  .text-gradient {
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
 }
 </style>
@@ -41,14 +21,13 @@
       class="homescreen m-0 flex flex-col w-screen justify-center bg-gray-800 h-80 text-gray-100  "
     >
 <h1 class="text-5xl  my-auto mx-auto  md:mx-48 ">
-  <img src="https://avatars.githubusercontent.com/u/58584157?s=460&u=204ece99ed17a2061b46570ac65677af9a4bb654&v=4" class="rounded-full border-solid border-white border-2 -mt-3">
-<span class="inline-block rounded-full text-white bg-indigo-500 px-2 py-1 font-bold mr-3">메시징</span>의 변화,<br><span class="text-purple-500"><strong>삶의 변화.</strong></span><br>
-    <span class="inline-block rounded-full text-gray-600 bg-gray-100 px-2 py-1 text-sm mr-3">반가워요! PaperCore입니다.</span>
+<img src="https://avatars.githubusercontent.com/u/58584157?s=460&amp;u=204ece99ed17a2061b46570ac65677af9a4bb654&amp;v=4" class="rounded-full border-solid border-white border-2 -mt-3 h-16"><strong><span class="text-gradient bg-gradient-to-r from-pink-400 via-purple-400 to-indigo-500 font-mono">PaperCore</span></strong>-dev<br>
+<span class="inline-block rounded-full text-white text-lg tracking-tight  mr-3">반가워요! PaperCore입니다.</span>
 <br>
-<a href="https://commerce.coinbase.com/embed/charges/JQXKFDQT?version=201807&origin=https%3A%2F%2Fwithun.link" target="_blank">
+<a href="https://commerce.coinbase.com/embed/charges/JQXKFDQT?version=201807&amp;origin=https%3A%2F%2Fwithun.link" target="_blank">
 <button type="button" class="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-blue-500 hover:bg-blue-600 hover:shadow-lg">가상화폐로 기부하기</button>
-  </a>
-  </h1>
+</a>
+</h1>
     </section>
 <script>
 /*for (var i = 0; i < 100; i++) {
