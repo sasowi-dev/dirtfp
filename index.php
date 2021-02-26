@@ -43,7 +43,16 @@
 <h1 class="text-5xl  my-auto mx-auto  md:mx-48 ">
 <span class="inline-block rounded-full text-white bg-indigo-500 px-2 py-1 font-bold mr-3">메시징</span>의 변화,<br><span class="text-purple-500"><strong>삶의 변화.</strong></span><br>
     <span class="inline-block rounded-full text-gray-600 bg-gray-100 px-2 py-1 text-sm mr-3">2018년부터 시작된 그 여정으로 오픈소스와 소프트웨어 사용자들에게 더 나은 선택을 드립니다.</span>
-</h1>
+<br>
+  <div>
+  <a class="donate-with-crypto"
+     href="https://commerce.coinbase.com/checkout/1264ef29-e338-4a77-80fd-f5e01ddf1f05">
+    Donate with Crypto
+  </a>
+  <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
+  </script>
+</div>
+  </h1>
     </section>
 <script>
 /*for (var i = 0; i < 100; i++) {
