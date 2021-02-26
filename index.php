@@ -44,14 +44,9 @@
 <span class="inline-block rounded-full text-white bg-indigo-500 px-2 py-1 font-bold mr-3">메시징</span>의 변화,<br><span class="text-purple-500"><strong>삶의 변화.</strong></span><br>
     <span class="inline-block rounded-full text-gray-600 bg-gray-100 px-2 py-1 text-sm mr-3">2018년부터 시작된 그 여정으로 오픈소스와 소프트웨어 사용자들에게 더 나은 선택을 드립니다.</span>
 <br>
-  <div>
-  <a class="donate-with-crypto"
-     href="https://commerce.coinbase.com/checkout/1264ef29-e338-4a77-80fd-f5e01ddf1f05">
-    Donate with Crypto
+<a href="https://commerce.coinbase.com/embed/charges/JQXKFDQT?version=201807&origin=https%3A%2F%2Fwithun.link" target="_blank">
+<button type="button" class="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-blue-500 hover:bg-blue-600 hover:shadow-lg">가상화폐로 기부하기</button>
   </a>
-  <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-  </script>
-</div>
   </h1>
     </section>
 <script>
