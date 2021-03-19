@@ -7,6 +7,29 @@
   <body>
 <?php include 'event.php';?>
 <?php include 'header.php';?>
+    <div class="bg-white my-4 shadow p-8 rounded-lg text-center">
+    <div class="flex  text-center mb-4">
+ 
+<h2 class="text-sm w-full">채팅방 전광판
+
+</h2>
+
+    </div>
+
+    <div class="w-full">
+        <div class="flex">
+            <div id="payment" class="w-full flex-1 text-2xl  font-bold bg-black text-white rounded-l p-3 " >
+                <marquee>테스트 입니다
+                    </marquee>
+                </div>
+
+                 </div>
+                 
+    </div>
+    <button type="button" class="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-blue-500 hover:bg-blue-600 hover:shadow-lg">나도 홍보 하기</button>
+<button type="button" class="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-yellow-500 hover:bg-yellow-600 hover:shadow-lg">홍보 모두 보기</button>
+</div>
+
 <style>
 
 @layer utilities {
