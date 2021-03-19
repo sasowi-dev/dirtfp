@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ko">
+ <head>
+  <meta charset="UTF-8">
+  <title>카카오 메시지템플릿빌더를 이용한 링크보내기</title>
+ </head>
+ <body>
+  <a href="javascript:void(0);" id="btn" >카카오 링크보내기</a>
+  <!-- Kakao API -->
+  <script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+  <script>
+    Kakao.init('3db8179e191cda2e1417a67dc6d7dece'); //6번 항목에서 발급 받았던 javascript key를 여기에 넣는다.
+ 
+ $("#btn").click(function(e) { //jquery를 사용한다 가정
+  e.preventDefault();   //이벤트 버블링 prevent
+  
+  Kakao.Link.sendCustom({
+    templateId: 44377   // 15번 항목에서 확인하였던 이벤트번호 등록 
+    templateArgs: {
+          'SUBJECT': 'afdfdfdf'
+        }
+  });
+ });
+  </script>
+ </body>
+</html>
