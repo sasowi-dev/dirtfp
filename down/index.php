@@ -24,8 +24,8 @@
                 <center>
                   <img id="url2qr">
                   <br>
-                  <small>QR코드 스캔하거나</small><br>
-                  <small><span id="url"></span> 방문</small>
+                  <small>PC에서 QR코드를 스캔하거나</small><br>
+                  <small>fpcdn.withun.link/<br><span id="url"></span><br>방문하세요.</small>
                 </center>
                 창이 닫히지 않는다면 <a href="javascript:history.back()" class="text-blue-500 underline hover:text-blue-700 ">이전 페이지</a>로,<br>
                 '이름 바꾸기'이용해서<br>이름 뒤에 '.apk'를 붙이세요.
@@ -43,8 +43,7 @@
      const urlParams = new URLSearchParams(queryString);
       const package = urlParams.get('package');
       document.getElementById("url2qr").setAttribute("src", "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data="+"http://fpcdn.withun.link/"+package);
-      document.getElementById("url").innerHTML = "fpcdn.withun.link/"+package;
-      window.open('http://fpcdn.withun.link/'+package);
+      document.getElementById("url").innerHTML = package;
     </script>
 <?php include '../footer.php';?>
 </body>
