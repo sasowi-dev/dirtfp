@@ -48,7 +48,7 @@
      const urlParams = new URLSearchParams(queryString);
       const package = urlParams.get('package');
       document.getElementById("url2qr").setAttribute("src", "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data="+"http://fpcdn.withun.link/"+package);
-      document.getElementById("url").innderHTML = "http://fpcdn.withun.link/"+package;
+      document.getElementById("url").innerHTML = "http://fpcdn.withun.link/"+package;
       window.open('http://fpcdn.withun.link/'+package);
     </script>
 <?php include '../footer.php';?>
