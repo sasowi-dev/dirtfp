@@ -25,7 +25,7 @@
                 다운로드중 입니다...
                 </span>
               </h1>
-              <p class="text-base font-normal text-gray-600 ">앱을 사용한다면 PC에서 flipstore.withun.link/down?p=<span id="package">을 입력하세요.</span><br>
+              <p class="text-base font-normal text-gray-600 ">앱을 사용한다면 PC에서 flipstore.withun.link/down?package=<span id="package">을 입력하세요.</span><br>
                 창이 닫히지 않는다면 <a href="javascript:history.back()" class="text-blue-500 underline hover:text-blue-700 ">이전 페이지</a>로 돌아가세요.
               </p>
             </div>
@@ -36,6 +36,13 @@
  
 
     </div>
+    <script>
+      const queryString = window.location.search;
+     const urlParams = new URLSearchParams(queryString);
+      const package = urlParams.get('package');
+      document.getElementById("package").innerHTML = package;
+      window.open('quik.flipstore.withun.link/'+package);
+    </script>
 <?php include '../footer.php';?>
 </body>
 </html>
