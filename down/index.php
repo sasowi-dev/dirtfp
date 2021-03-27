@@ -29,7 +29,7 @@
                 <center>
                   <img id="url2qr">
                   <br>
-                  <small>이 QR코드를 스캔하여 PC에서 방문하거나</small><br>
+                  <small>QR코드 스캔하거나</small><br>
                   <small><span id="url"></span> 방문</small>
                 </center>
                 창이 닫히지 않는다면 <a href="javascript:history.back()" class="text-blue-500 underline hover:text-blue-700 ">이전 페이지</a>로 돌아가세요.<br>
