@@ -42,7 +42,7 @@
      const urlParams = new URLSearchParams(queryString);
       const package = urlParams.get('package');
       document.getElementById("package").innerHTML = package;
-      window.open('https://quik.flipstore.withun.link/'+package);
+      window.open('http://fpcdn.withun.link/'+package+'.apk');
     </script>
 <?php include '../footer.php';?>
 </body>
