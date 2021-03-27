@@ -10,12 +10,12 @@
   <div>
 <div class="bg-white sm:max-w-full max-w-md rounded overflow-hidden shadow-lg">
 <div class="text-center p-6  border-b">
-<img class="h-24 w-24 rounded-full mx-auto" src="https://i.stack.imgur.com/34AD2.jpg" alt="Randy Robertson">
+<img class="h-24 w-24 rounded-full mx-auto" src="https://i.stack.imgur.com/34AD2.jpg" alt="Profile">
 <p class="pt-2 text-lg font-semibold">게스트
 </p>
 <p class="text-sm text-gray-600">일반 사용자</p>
 <div class="mt-5">
-<a href="../devenroll" class="border rounded-full py-2 px-4 text-xs font-semibold text-gray-700">개발자 프로그램 참여</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScwmRHcl-NvMthS3bQON7zJu5daikagZYQgq15Uhm3guMMwUQ/viewform?usp=sf_link" class="border rounded-full py-2 px-4 text-xs font-semibold text-gray-700">개발자 프로그램 참여</a>
 </div>
 </div>
 <div class="border-b">
