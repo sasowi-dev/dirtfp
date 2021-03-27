@@ -7,18 +7,16 @@
   <body>
 <?php include 'event.php';?>
 <?php include 'header.php';?>
-   <div class="bg-gray-100 m-auto w-full h-64 mt-5" style="background-image:url('https://images.pexels.com/photos/3738673/pexels-photo-3738673.jpeg?auto=compress&cs=tinysrgb&h=350'); background-position: center; background-repeat: no-repeat; background-size: cover;">
+   <div class="bg-gray-100 m-auto w-full h-64 mt-5" style="background-image:url('https://play-lh.googleusercontent.com/zKs_WRjncpVdsxo2Ifwjsxg0aupC2du9g5ECf-2pJ_FpHDZCRGJIrTMCnvlAKRoQhj3g9VUtXik=w490-h245-rw'); background-position: center; background-repeat: no-repeat; background-size: cover;">
   <div class="flex flex-row items-end h-full w-full">
     <div class="flex flex-col w-full pb-3 pt-10 px-3 bg-gradient-to-t from-black text-gray-200">
-      <h3 class="text-base font-bold leading-5 uppercase">Lorem, ipsum dolor sit amet elit foure consectetur adipisicing.</h3>
+      <h3 class="text-base font-bold leading-5 uppercase">2021년 3월 인기 앱</h3>
       <div class="inline-flex items-center">
-        <span class="capitalize font-base text-xs my-1 mr-1">Agnezmo Tuginem</span>
-        <!--
-인증 배지
+        <span class="capitalize font-base text-xs my-1 mr-1">Google Play</span>
 
 <svg class="stroke-current stroke-1 text-blue-600 w-4 verified" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
           <path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-        </svg>-->
+        </svg>
       </div>
       <div class="flex flex-row justify-between">
         <div class="flex flex-row">
