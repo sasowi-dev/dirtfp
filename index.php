@@ -34,8 +34,10 @@
 </div>
 </div>
       
+      
       <!--FP이외 제한구역 끝-->
 </div>
+    
 <?php include 'footer.php';?>
 </body>
 </html>
