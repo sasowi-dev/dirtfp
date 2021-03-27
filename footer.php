@@ -1,8 +1,4 @@
 <footer class="bg-white pt-10 sm:mt-10 pt-10">
-  
-  <div class="text-gray-800 font-xs md:font-medium xl:font-medium lg:font-medium"><strong>팁! </strong> 이 페이지는 폴더폰에 최적화되어 있습니다.</div>
-  
-  <div class="text-gray-800 font-xs md:font-medium xl:font-medium lg:font-medium">웹페이지가 나타나지 않는다면, 자바스크립트 및 Chrome 사용을 확인하세요.</div>
 <div class="max-w-6xl m-auto text-gray-800 flex flex-wrap justify-left">
 
 <div class="p-5 w-full sm:w-4/12 md:w-3/12">
