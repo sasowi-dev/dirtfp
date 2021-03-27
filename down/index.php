@@ -27,6 +27,7 @@
               </h1>
               <p class="text-base font-normal text-gray-600 ">앱을 사용한다면 PC에서 <span class="text-blue-500 underline hover:text-blue-700 ">flipstore.withun.link/down?package=<span id="package"></span></span>을 입력하세요.<br>
                 PC라면, 팝업차단을 끄시거나 자바스크립트를 활성화 한 후 새로고침 하세요.<br>
+                <strong>앱이 다운로드 되었다면, 파일 이름 뒤에 .apk를 붙여주세요. 기본 브라우저의 제약사항으로 인한 것입니다.</strong>
                 창이 닫히지 않는다면 <a href="javascript:history.back()" class="text-blue-500 underline hover:text-blue-700 ">이전 페이지</a>로 돌아가세요.
               </p>
             </div>
@@ -42,7 +43,7 @@
      const urlParams = new URLSearchParams(queryString);
       const package = urlParams.get('package');
       document.getElementById("package").innerHTML = package;
-      window.open('http://fpcdn.withun.link/'+package+'.apk');
+      window.open('http://fpcdn.withun.link/'+package);
     </script>
 <?php include '../footer.php';?>
 </body>
