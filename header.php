@@ -5,7 +5,7 @@
             <div class="logo flex items-center space-x-4 mr-10">
               <img class="h-8" src="https://flipstore.withun.link/identity/Group%201.svg" alt="">
 
-                  <h1 class="text-gray-600 text-2xl">Play</h1>
+                  <h1 class="text-gray-600 text-2xl"></h1>
             </div>
 		 </a>
             <div class=" menu flex justify-end  items-center  flex-1 space-x-4">
