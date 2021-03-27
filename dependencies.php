@@ -20,3 +20,10 @@
 <meta property="twitter:description" content="플립폰(폴더폰)을 위한 어플리케이션 스토어">
 <meta property="twitter:image" content="https://flipstore.withun.link/identity/papercore_new.png">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
+<style>
+  @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+* { 
+ font-family: 'Noto Sans KR', sans-serif;
+}
+</style>
