@@ -7,6 +7,7 @@
   <body>
 <?php include 'event.php';?>
 <?php include 'header.php';?>
+    <div class="md:hidden lg:hidden xl:hidden">
    <div class="bg-gray-100 m-auto w-full h-64 mt-5" style="background-image:url('https://play-lh.googleusercontent.com/zKs_WRjncpVdsxo2Ifwjsxg0aupC2du9g5ECf-2pJ_FpHDZCRGJIrTMCnvlAKRoQhj3g9VUtXik=w490-h245-rw'); background-position: center; background-repeat: no-repeat; background-size: cover;">
   <div class="flex flex-row items-end h-full w-full">
     <div class="flex flex-col w-full pb-3 pt-10 px-3 bg-gradient-to-t from-black text-gray-200">
@@ -31,6 +32,10 @@
     </div>
   </div>
 </div>
+    </div>
+    <div class="sm:hidden xs:hidden">
+      더 나은 경험을 위해 LG 폴더에서 접속해 주세요.
+    </div>
 <?php include 'footer.php';?>
 </body>
 </html>
