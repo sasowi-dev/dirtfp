@@ -3,7 +3,7 @@
 <link rel="icon" type="image/png" sizes="192x192"  href="https://flipstore.withun.link/identity/android-chrome-192x192.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://flipstore.withun.link/identity/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="https://flipstore.withun.link/identity/favicon-16x16.png">
-<link rel="manifest" href="https://withun.link/identity/site.webmanifest">
+<link rel="manifest" href="https://flipstore.withun.link/identity/site.webmanifest">
 <meta name="msapplication-TileColor" content="#1D4ED8">
 <meta name="theme-color" content="#1D4ED8">
 <title>FP Play</title>
@@ -20,10 +20,18 @@
 <meta property="twitter:description" content="플립폰(폴더폰)을 위한 어플리케이션 스토어">
 <meta property="twitter:image" content="https://flipstore.withun.link/identity/papercore_new.png">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://egkoppel.github.io/product-sans/google-fonts.css">
 <style>
   @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
-
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+ #product-sans
+  {
+    font-family: 'Product Sans';
+  }
 * { 
  font-family: 'Noto Sans KR', sans-serif;
 }
