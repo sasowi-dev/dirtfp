@@ -22,11 +22,11 @@
 
               <p class="text-base font-normal text-gray-600 ">
                 <center>
-                  <br><br>
+                  <br><br><br><br>
                   <img id="url2qr">
                   <br>
                   <small>PC에서 QR코드를 스캔하거나</small><br>
-                  <small<a id="mission"  class="text-blue-500 underline hover:text-blue-700 ">이 </a><br>페이지를 저장하세요</small>
+                  <small><a id="mission" class="text-blue-500 underline hover:text-blue-700 ">이 </a><br>페이지를 저장하세요</small>
                 </center>
                 창이 닫히지 않는다면 <a href="javascript:history.back()" class="text-blue-500 underline hover:text-blue-700 ">이전 페이지</a>로 이동
               </p>
