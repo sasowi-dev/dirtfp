@@ -25,9 +25,9 @@
                   <br><br><br><br>
                   <img id="url2qr">
                   <br>
-                  <small>PC에서 QR코드를 스캔하거나</small><br>
-                  <small><a id="mission" class="text-blue-500 underline hover:text-blue-700 ">이 </a><br>페이지를 저장하세요</small>
+                  <small>PC에서 QR코드를 스캔하세요</small><br>
                 </center>
+                5초 뒤 다운로드가 시작됩니다. "이전" 버튼을 누르시면 돌아갑니다.
                 창이 닫히지 않는다면 <a href="javascript:history.back()" class="text-blue-500 underline hover:text-blue-700 ">이전 페이지</a>로 이동
               </p>
             </div>
@@ -42,8 +42,10 @@
       const queryString = window.location.search;
      const urlParams = new URLSearchParams(queryString);
       const package = urlParams.get('package');
-      document.getElementById("url2qr").setAttribute("src", "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data="+"http://fpcdn.withun.link/"+package);
-      document.getElementById("mission").setAttribute("href", "http://fpcdn.withun.link/"+package);
+      document.getElementById("url2qr").setAttribute("src", "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data="+"http://fpcdn.withun.link/"+package+".apk");
+     setTimeout(function(){ window.open("http://fpcdn.withun.link/"+package+".apk","_self"); }, 5000);
+      
+       
     </script>
 <?php include '../footer.php';?>
 </body>
