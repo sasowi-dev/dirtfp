@@ -10,7 +10,35 @@
 
     <div class="">
        <!--FP이외 제한구역-->
+ <div class="glide heropeek">
+    <div class="glide__track" data-glide-el="track">
+      <ul class="glide__slides">
+        <img class="glide__slide" src="https://s3.envato.com/files/245544225/Inner-Poster-590x300.jpg">
+        <img class="glide__slide" src="http://teamsportbanners.com/skin/frontend/theme1/default/images/cms/softball-banner-design.JPG">
+        <img class="glide_slide" src="https://s3.envato.com/files/245544225/Inner-Poster-590x300.jpg">
+      </ul>
+    </div>
+  </div>
+  <script>
+    
 
+var glideHeroPeek = new Glide('.heropeek', {
+  type: 'carousel',
+  animationDuration: 1000,
+  autoplay: 3000,
+  focusAt: '1',
+  startAt: 1,
+  perView: 1,
+   // set a value to show the previous and next slides peeking in
+  peek: {
+    before: 20,
+    after: 20
+  },
+  gap: 0
+});
+
+glideHeroPeek.mount();
+      </script>
       <?php
   try {
   $con= new PDO('mysql:host=localhost:3306;dbname=fpstre', "chocolatekos", "leegyubin!Lee06");
