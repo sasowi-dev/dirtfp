@@ -16,9 +16,8 @@
 <div class="rounded-lg sm:border-2 px-4 lg:px-24 py-16 lg:max-w-xl sm:max-w-md w-full text-center">
 <div class="text-center">
 <h1 class="font-bold text-3xl mb-8 w-full text-gray-600">
-어플리케이션 다운로드 / Download Application
-<p class="font-light text-gray-500 text-xs">앱으로 FP Play에서 다양한 어플리케이션, 게임을 다운로드하고 플레이하세요.<br>
-Enjoy unlimited applications and games from FP Play App.</p>
+앱 
+<p class="font-light text-gray-500 text-xs">앱으로 FP Play에서 다양한 어플리케이션, 게임을 다운로드하고 플레이하세요.</p>
 </h1>
 <div class="py-2">
 <a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/9846d6d4-8fd4-11eb-9ffa-0050568d055f/download">
