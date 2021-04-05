@@ -12,9 +12,9 @@
  <div class="glide heropeek">
     <div class="glide__track" data-glide-el="track">
       <ul class="glide__slides">
-        <img class="glide__slide" src="https://s3.envato.com/files/245544225/Inner-Poster-590x300.jpg">
-        <img class="glide__slide" src="http://teamsportbanners.com/skin/frontend/theme1/default/images/cms/softball-banner-design.JPG">
-        <img class="glide_slide" src="https://s3.envato.com/files/245544225/Inner-Poster-590x300.jpg">
+        <img class="glide__slide" src="promo/1.png">
+        <img class="glide__slide" src="promo/2.png">
+        <img class="glide_slide" src="promo/3.png">
       </ul>
     </div>
   </div>
