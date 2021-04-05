@@ -27,7 +27,7 @@
   </a>
 <a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/3b7bdf37-8f0e-11eb-a9a5-0050568d80e1/download">
 <button class=" border-2 border-gray-100 focus:outline-none bg-white-600 text-black font-bold block w-full p-2 rounded-full shadow-md ">
-브라우저 다운로
+브라우저 다운로드
 </button>
   </a>
 </div>
