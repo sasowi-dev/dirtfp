@@ -21,22 +21,31 @@
 <meta property="twitter:image" content="https://flipstore.withun.link/identity/papercore_new.png">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
+<link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.core.min.css">
+
 <style>
-  @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+/* NotoSans 설정*/
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+/* Google Product Sans 설정 */
 @font-face {
   font-family: 'Product Sans';
   font-style: normal;
   font-weight: 400;
   src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
 }
+/*로고 부분*/
  #product-sans
   {
     font-family: 'Product Sans';
   }
+/*전체 노토 적용*/
 * { 
  font-family: 'Noto Sans KR', sans-serif;
 }
-  
+/*프로덕트*/
+  .heroprod{
+     font-family: 'Product Sans','Noto Sans KR', sans-serif;
+  }
   body{
     background-color:white;
   }
