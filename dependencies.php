@@ -21,7 +21,7 @@
 <meta property="twitter:image" content="https://flipstore.withun.link/identity/papercore_new.png">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
-<link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.core.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css">
 
 <style>
 /* NotoSans 설정*/
