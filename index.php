@@ -12,9 +12,9 @@
  <div class="glide heropeek">
     <div class="glide__track" data-glide-el="track">
       <ul class="glide__slides">
-        <img class="glide__slide rounded-md px-2" src="promo/1.png">
-        <img class="glide__slide rounded-md px-2" src="promo/2.png">
-        <img class="glide_slide rounded-md px-2" src="promo/3.png">
+        <img class="glide__slide rounded-md " src="promo/1.png">
+        <img class="glide__slide rounded-md " src="promo/2.png">
+        <img class="glide_slide rounded-md " src="promo/3.png">
       </ul>
     </div>
   </div>
