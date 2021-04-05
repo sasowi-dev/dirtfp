@@ -14,7 +14,6 @@
       <ul class="glide__slides">
         <img class="glide__slide rounded-md " src="../promo/1.png">
         <img class="glide__slide rounded-md " src="../promo/2.png">
-        <img class="glide_slide rounded-md " src="../promo/3.png">
       </ul>
     </div>
   </div>
