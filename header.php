@@ -1,4 +1,4 @@
-<header class="bg-white shadow-sm w-full z-10  top-0 ">
+<header class="bg-white shadow-sm w-full z-10 fixed top-0 ">
 <div class="max-auto  px-4 py-2 bg-white">
 <div class="flex justify-between">
 <a href="https://flipstore.withun.link">
