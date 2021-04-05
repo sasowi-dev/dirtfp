@@ -2,11 +2,11 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<?php include 'dependencies.php';?>
+<?php include '../dependencies.php';?>
   </head>
   <body>
-<?php include 'event.php';?>
-<?php include 'header.php';?>
+<?php include '../event.php';?>
+<?php include '../header.php';?>
 
     <div class="mt-16">
  <div class="glide heropeek">
@@ -188,6 +188,6 @@ glideHeroPeek.mount();
       <!--FP이외 제한구역 끝-->
 </div>
     
-<?php include 'footer.php';?>
+<?php include '../footer.php';?>
 </body>
 </html>
