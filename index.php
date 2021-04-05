@@ -35,11 +35,6 @@
 </div>
 </div>
 </section>
-    <script>
-      function appdown(package){
-       window.open("https://flipstore.withun.link/application-cdn/"+package+".apk","_self"); 
-      }
-    </script>
 <?php include 'footer.php';?>
 </body>
 </html>
