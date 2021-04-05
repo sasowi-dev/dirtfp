@@ -8,8 +8,7 @@
 <?php include 'event.php';?>
 <?php include 'header.php';?>
 
-    <div class="">
-       <!--FP이외 제한구역-->
+    <div class="mt-16">
  <div class="glide heropeek">
     <div class="glide__track" data-glide-el="track">
       <ul class="glide__slides">
