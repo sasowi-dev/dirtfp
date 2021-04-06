@@ -53,10 +53,9 @@
         </div>
       </div>
         <p class="text-md md:text-xl mt-10 text-center">Screenshots</p>
-         <div class="glide heropeek">
+         <div class="glide__track w-64 h-72">
     <div class="glide__track" data-glide-el="track">
       <ul class="glide__slides">
-        <iframe src="https://appetize.io/embed/4p9kuny8bx0hu7zkgp0qchuezc?device=nexus5&scale=60&orientation=portrait&osVersion=10.0&screenOnly=true&timezone=Asia%2FSeoul&androidPackageManager=true&centered=true" noborder width="200" height="350" scrolling="no" class="glide__slide rounded-md"></iframe>
         <img class="glide__slide rounded-md " width="200" src="https://i.imgur.com/77UJ9c7.png">
         <img class="glide__slide rounded-md " width="200" src="https://i.imgur.com/gISB8D6.png">
            <img class="glide__slide rounded-md " width="200"src="https://i.imgur.com/Ey63tRH.png">
