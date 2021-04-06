@@ -163,7 +163,7 @@ glideHeroPeek.mount();
   try {
   $con= new PDO('mysql:host=localhost:3306;dbname=fpstre', "chocolatekos", "leegyubin!Lee06");
   $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-  $query = "SELECT * FROM enskills";
+  $query = "SELECT * FROM skills-us";
   //first pass just gets the column names
   print '<table class="min-w-full table-auto">';
   $result = $con->query($query);
