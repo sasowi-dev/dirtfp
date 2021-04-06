@@ -4,7 +4,7 @@
 <a href="https://flipstore.withun.link/app-us">
 <div class="logo flex items-center mr-10">
 <img class="h-8" src="https://flipstore.withun.link/identity/Group%201.svg" alt="">
-<h1 class="text-gray-600 text-2xl" id="product-sans">FP Play</h1>
+<h1 class="text-gray-600 text-2xl" id="product-sans">Flip Play</h1>
 </div>
 </a>
 <div class=" menu flex justify-end  items-center  flex-1 space-x-4">
