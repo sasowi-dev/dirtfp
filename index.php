@@ -47,7 +47,7 @@
 
        <p class="text-md md:text-xl mt-10 text-center">Newsfeed</p>
 <center>
-<div class="w-64"><a class="twitter-timeline" href="https://twitter.com/PaperCoreDev?ref_src=twsrc%5Etfw">Tweets by PaperCoreDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="w-48"><a class="twitter-timeline" href="https://twitter.com/PaperCoreDev?ref_src=twsrc%5Etfw">Tweets by PaperCoreDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 </center>
     </div>
   </div>
