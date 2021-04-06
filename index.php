@@ -26,20 +26,21 @@
   <div class="container">
     <div class="bg-white w-full">
       <div class="text-center">
-        <div class="flex">
-    <button class="text-blue-600 bg-blue-100  text-sm font-semibold flex items-center  focus:outline-none border border-gray-300 rounded rounded-l-md rounded-r-none px-2 py-2">
-          
-     Report</button>
-      <button class="text-gray-600 text-sm font-semibold flex items-center  focus:outline-none border border-l-0 border-r-0  border-gray-300 px-2 py-2">
-            
-        Data Sources</button>
-        <button class="text-gray-600 text-sm font-semibold flex items-center  focus:outline-none border border-gray-300 rounded rounded-r-md rounded-l-none px-2 py-2">
-            
-          Owned by me</button>
-  </div>
+
         <h2 class="heroprod text-4xl tracking-tight leading-10 text-gray-700 sm:text-5xl sm:leading-none md:text-6xl">
           Flip Play
         </h2>
+        <div class="m-3 flex">
+
+    <a href="https://flipstore.withun.link" class="w-1/3 text-center bg-white tracking-wide text-gray-800 border-2 border-blue-500 hover:border-blue-500 hover:bg-blue-500 hover:text-white py-2 px-2 inline-flex items-center shadow-md">
+<span class="mx-auto">Home</span>
+</a><a href="https://flipstore.withun.link/lab.php" class="w-1/3 text-center bg-white tracking-wide text-gray-800 border-2 border-blue-500 hover:border-blue-500 hover:bg-blue-500 hover:text-white py-2 px-2 inline-flex items-center  shadow-md">
+<span class="mx-auto">Lab</span>
+</a>
+    <a href="https://flipstore.withun.link/about" class="w-1/3 text-center bg-white tracking-wide text-gray-800 border-2 border-blue-500 hover:border-blue-500 hover:bg-blue-500 hover:text-white py-2 px-2 inline-flex items-center shadow-md">
+<span class="mx-auto">About</span>
+</a>
+</div>
         <h3 class='text-xl md:text-3xl mt-10'>Application store for 4G Flip phones,<br>now for Exalt LTE.</h3>
         <p class="text-md md:text-xl mt-10">We are offering application that can be used for newly released flip phones.<br>Download our official app in your flip phone and start enjoying!</p>
       </div>
