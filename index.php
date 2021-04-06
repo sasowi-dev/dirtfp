@@ -21,18 +21,18 @@ Download application
 </h1>
 <div class="py-2">
 <a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/33af41eb-95cd-11eb-8894-0050568dd43a/download">
-<button class=" border-2 border-gray-100 focus:outline-none bg-white-600 text-black font-bold block w-full p-2 rounded-full shadow-md ">
+<button class=" border-2 border-gray-100 focus:outline-none bg-white-600 text-black font-bold block w-full rounded-full shadow-md ">
 [한국어] - 1.4
 </button>
   </a>
  <a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/33af41eb-95cd-11eb-8894-0050568dd43a/download">
-<button class=" border-2 border-gray-100 focus:outline-none bg-white-600 text-black font-bold block w-full p-2 rounded-full shadow-md ">
+<button class=" border-2 border-gray-100 focus:outline-none bg-white-600 text-black font-bold block w-full rounded-full shadow-md ">
 [English] - 1.4
 </button>
   </a>
 <a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/3b7bdf37-8f0e-11eb-a9a5-0050568d80e1/download">
-<button class=" border-2 border-gray-100 focus:outline-none bg-white-600 text-black font-bold block w-full p-2 rounded-full shadow-md ">
-Chrome (필수/Mandatory)
+<button class=" border-2 border-gray-100 focus:outline-none bg-white-600 text-black font-bold block w-full rounded-full shadow-md ">
+Chrome (Req, 필수)
 </button>
   </a>
 </div>
