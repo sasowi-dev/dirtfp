@@ -8,8 +8,8 @@
 </div>
 </a>
 <div class=" menu flex justify-end  items-center  flex-1 space-x-4">
-    <a href="#">
-<img class="h-9 rounded-full border border-gray-100 shadow-sm" src="https://i.stack.imgur.com/34AD2.jpg" alt="user image">
+    <a href="https://flipstore.withun.link/twitter.php">
+<img class="h-9 rounded-full border border-gray-100 shadow-sm" src="https://flipstore.withun.link/124021.png" alt="Twitter">
     </a>
 </div>
 </div>
