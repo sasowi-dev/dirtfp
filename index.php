@@ -47,8 +47,8 @@
         </div>
         <div class="m-3">
           <a href="https://twitter.com/PaperCoreDev"
-             class="w-32 h-32 text-center bg-white tracking-wide text-gray-800 font-bold border-2 border-orange-500 hover:border-orange-500 hover:bg-orange-500 hover:text-white py-2 px-6 inline-flex items-center">
-            <span class="mx-auto"><span class="px-2 bg-orange-500 rounded-full text-white">STEP 3</span><br>Follow us</span>
+             class="w-32 h-32 text-center bg-white tracking-wide text-gray-800 font-bold border-2 border-orange-500 hover:border-green-500 hover:bg-green-500 hover:text-white py-2 px-6 inline-flex items-center">
+            <span class="mx-auto"><span class="px-2 bg-green-500 rounded-full text-white">STEP 3</span><br>Follow us</span>
           </a>
         </div>
       </div>
