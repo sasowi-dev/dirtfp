@@ -13,7 +13,7 @@
     <div class="glide__track" data-glide-el="track">
       <ul class="glide__slides">
         <img class="glide__slide rounded-md " src="../promo-us/1.png">
-        <img class="glide__slide rounded-md " src="../promo-us/2.png">
+        <img class="glide__slide rounded-md " src="../promo-us/3.png">
       </ul>
     </div>
   </div>
