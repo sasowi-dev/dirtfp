@@ -6,17 +6,17 @@
 <link rel="manifest" href="https://flipstore.withun.link/identity/site.webmanifest">
 <meta name="msapplication-TileColor" content="#1D4ED8">
 <meta name="theme-color" content="#1D4ED8">
-<title>FP Play</title>
+<title>Flip Play</title>
 <meta name="title" content="FP Play">
 <meta name="description" content="Application store for flip phones.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://flipstore.withun.link/">
-<meta property="og:title" content="FP Play">
+<meta property="og:title" content="Flip Play">
 <meta property="og:description" content="Application store for flip phones.">
 <meta property="og:image" content="https://flipstore.withun.link/identity/papercore_new.png">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://flipstore.withun.link/">
-<meta property="twitter:title" content="FP Play">
+<meta property="twitter:title" content="Flip Play">
 <meta property="twitter:description" content="Application store for flip phones.">
 <meta property="twitter:image" content="https://flipstore.withun.link/identity/papercore_new.png">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
