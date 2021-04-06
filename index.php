@@ -45,12 +45,6 @@
             <span class="mx-auto"><span class="px-2 bg-red-600 rounded-full text-white">STEP 2</span><br>Get our app</span>
           </a>
         </div>
-        <div class="m-3">
-          <a href="https://twitter.com/PaperCoreDev"
-             class="w-32 h-32 text-center bg-white tracking-wide text-gray-800 font-bold border-2 border-green-500 hover:border-green-500 hover:bg-green-500 hover:text-white py-2 px-6 inline-flex items-center">
-            <span class="mx-auto"><span class="px-2 bg-green-500 rounded-full text-white">STEP 3</span><br>Follow us</span>
-          </a>
-        </div>
       </div>
 
        <p class="text-md md:text-xl mt-10 text-center">Newsfeed</p>
