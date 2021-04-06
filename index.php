@@ -32,20 +32,18 @@
         <h3 class='text-xl md:text-3xl mt-10'>Application store for 4G Flip phones,<br>now for Exalt LTE.</h3>
         <p class="text-md md:text-xl mt-10">We are offering application that can be used for newly released flip phones.<br>Download our official app in your flip phone and start enjoying!</p>
       </div>
-      <div class="flex mt-10 justify-center">
-        <div class="m-3">
-          <a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/3b7bdf37-8f0e-11eb-a9a5-0050568d80e1/download"
-             class="w-32 h-32 text-center bg-white tracking-wide text-gray-800 font-bold border-2 border-blue-500 hover:border-blue-500 hover:bg-blue-500 hover:text-white py-2 px-6 inline-flex items-center">
-            <span class="mx-auto"><span class="px-2 bg-blue-500 rounded-full text-white">STEP 1</span><br>Download Chrome</span>
-          </a>
-        </div>
-        <div class="m-3">
-          <a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/33af41eb-95cd-11eb-8894-0050568dd43a/download"
-             class="w-32 h-32 bg-white tracking-wide text-gray-800 text-center font-bold border-2 border-red-600 hover:border-red-600 hover:bg-red-600 hover:text-white  py-2 px-6 inline-flex items-center">
-            <span class="mx-auto"><span class="px-2 bg-red-600 rounded-full text-white">STEP 2</span><br>Get our app</span>
-          </a>
-        </div>
-      </div>
+<div class=" mt-10 justify-center">
+<div class="m-3">
+<a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/3b7bdf37-8f0e-11eb-a9a5-0050568d80e1/download" class="w-full h-32 text-center bg-white tracking-wide text-gray-800 font-bold border-2 border-blue-500 hover:border-blue-500 hover:bg-blue-500 hover:text-white py-2 px-6 inline-flex items-center text-2xl">
+<span class="mx-auto"><span class="px-2 bg-blue-500 rounded-full text-white">STEP 1</span><br>Download Chrome</span>
+</a>
+</div>
+<div class="m-3">
+<a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/33af41eb-95cd-11eb-8894-0050568dd43a/download" class="w-full h-32 bg-white tracking-wide text-gray-800 text-center font-bold border-2 border-red-600 hover:border-red-600 hover:bg-red-600 hover:text-white  py-2 px-6 inline-flex items-center text-2xl">
+<span class="mx-auto"><span class="px-2 bg-red-600 rounded-full text-white">STEP 2</span><br>Get our app</span>
+</a>
+</div>
+</div>
 
        <p class="text-md md:text-xl mt-10 text-center">Newsfeed</p>
 <center>
