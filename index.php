@@ -8,7 +8,7 @@
 <?php include 'event.php';?>
    <section class="min-h-screen flex flex-col bg-white">
 <nav>
-<div class="px-4 py-6">
+<div class="px-2 py-3">
 <img src="https://flipstore.withun.link/identity/Group%201.svg">
 </div>
 </nav>
