@@ -22,10 +22,10 @@
               <h1 id="pageTitle" class="flex items-center space-x-2">
 
                 <span class="text-xl font-medium text-gray-600 sm:text-2xl dark:text-light">
-                😥 이 페이지는 접근할 수 없어요!
+                😥 Page not found
                 </span>
               </h1>
-              <p class="text-base font-normal text-gray-600 "><a href="javascript:history.back()" class="text-blue-500 underline hover:text-blue-700 ">이전 페이지</a>로 돌아가세요.
+              <p class="text-base font-normal text-gray-600 "><a href="javascript:history.back()" class="text-blue-500 underline hover:text-blue-700 ">Go back</a> to your previous page.
               </p>
             </div>
           </div>
