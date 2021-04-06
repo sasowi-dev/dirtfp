@@ -53,7 +53,7 @@
         </div>
       </div>
         <p class="text-md md:text-xl mt-10 text-center">Screenshots</p>
-         <div class="glide__track w-64 h-72">
+         <div class="glide__track" style="height:18rem;">
     <div class="glide__track" data-glide-el="track">
       <ul class="glide__slides">
         <img class="glide__slide rounded-md " width="200" src="https://i.imgur.com/77UJ9c7.png">
