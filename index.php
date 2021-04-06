@@ -1,56 +1,8 @@
 <!DOCTYPE HTML>
 <html lang="ko">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="apple-touch-icon" sizes="180.180" href="https://flipstore.withun.link/identity/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="https://flipstore.withun.link/identity/android-chrome-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://flipstore.withun.link/identity/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://flipstore.withun.link/identity/favicon-16x16.png">
-<link rel="manifest" href="https://flipstore.withun.link/identity/site.webmanifest">
-<meta name="msapplication-TileColor" content="#1D4ED8">
-<meta name="theme-color" content="#1D4ED8">
-<title>Flip Play</title>
-<meta name="title" content="Flip Play">
-<meta name="description" content="Application store for 4G Flip phones, now for Exalt LTE.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://flipstore.withun.link/">
-<meta property="og:title" content="Flip Play">
-<meta property="og:description" content="Application store for 4G Flip phones, now for Exalt LTE.">
-<meta property="og:image" content="https://flipstore.withun.link/identity/papercore_new.png">
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://flipstore.withun.link/">
-<meta property="twitter:title" content="Flip Play">
-<meta property="twitter:description" content="Application store for 4G Flip phones, now for Exalt LTE.">
-<meta property="twitter:image" content="https://flipstore.withun.link/identity/papercore_new.png">
-<link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
-<style>
-/* NotoSans 설정*/
-@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
-/* Google Product Sans 설정 */
-@font-face {
-  font-family: 'Product Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
-}
-/*로고 부분*/
- #product-sans
-  {
-    font-family: 'Product Sans';
-  }
-/*전체 노토 적용*/
-* { 
- font-family: 'Noto Sans KR', sans-serif;
-}
-/*프로덕트*/
-  .heroprod{
-     font-family: 'Product Sans','Noto Sans KR', sans-serif;
-  }
-  body{
-    background-color:white;
-  }
-</style>
+  <meta charset="utf-8">
+<?php include 'dependencies-en.php';?>
   </head>
   <body>
 <header class="bg-white shadow-sm w-full z-10 fixed top-0 ">
@@ -70,13 +22,75 @@
 </div>
 </div>
 </header>
-    <div class="mt-16">
-  <h4 class="heroprod text-3xl font-semibold text-center text-gray-800">
-       Flip Play
-    </h4>   
-   <p class="heroprod text-center text-gray-800">
-       Your 4G flip phone's secret, revealed.
-    </p>     
+    <div class="mt-16"><div class="flex items-center justify-center">
+  <div class="container">
+    <div class="bg-white w-full">
+      <div class="text-center">
+        <h2 class="heroprod text-4xl tracking-tight leading-10 text-gray-700 sm:text-5xl sm:leading-none md:text-6xl">
+          Flip Play
+        </h2>
+        <h3 class='text-xl md:text-3xl mt-10'>Application store for 4G Flip phones,<br>now for Exalt LTE.</h3>
+        <p class="text-md md:text-xl mt-10">We are offering application that can be used for newly released flip phones.<br>Download our official app in your flip phone and start enjoying!</p>
+      </div>
+      <div class="flex mt-10 justify-center">
+        <div class="m-3">
+          <a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/3b7bdf37-8f0e-11eb-a9a5-0050568d80e1/download"
+             class="w-32 h-32 text-center bg-white tracking-wide text-gray-800 font-bold border-2 border-blue-500 hover:border-blue-500 hover:bg-blue-500 hover:text-white py-2 px-6 inline-flex items-center">
+            <span class="mx-auto"><span class="px-2 bg-blue-500 rounded-full text-white">STEP 1</span><br>Download Chrome</span>
+          </a>
+        </div>
+        <div class="m-3">
+          <a href="https://downapi.cafe.naver.com/v1.0/cafes/article/file/33af41eb-95cd-11eb-8894-0050568dd43a/download"
+             class="w-32 h-32 bg-white tracking-wide text-gray-800 text-center font-bold border-2 border-red-600 hover:border-red-600 hover:bg-red-600 hover:text-white  py-2 px-6 inline-flex items-center">
+            <span class="mx-auto"><span class="px-2 bg-red-600 rounded-full text-white">STEP 2</span><br>Get our app</span>
+          </a>
+        </div>
+        <div class="m-3">
+          <a href="https://twitter.com/PaperCoreDev"
+             class="w-32 h-32 text-center bg-white tracking-wide text-gray-800 font-bold border-2 border-orange-500 hover:border-orange-500 hover:bg-orange-500 hover:text-white py-2 px-6 inline-flex items-center">
+            <span class="mx-auto"><span class="px-2 bg-orange-500 rounded-full text-white">STEP 3</span><br>Follow us</span>
+          </a>
+        </div>
+      </div>
+        <p class="text-md md:text-xl mt-10 text-center">Screenshots</p>
+         <div class="glide heropeek">
+    <div class="glide__track" data-glide-el="track">
+      <ul class="glide__slides">
+        <iframe src="https://appetize.io/embed/4p9kuny8bx0hu7zkgp0qchuezc?device=nexus5&scale=60&orientation=portrait&osVersion=10.0&screenOnly=true&timezone=Asia%2FSeoul&androidPackageManager=true&centered=true" noborder width="200" height="350" scrolling="no" class="glide__slide rounded-md"></iframe>
+        <img class="glide__slide rounded-md " width="200" src="https://i.imgur.com/77UJ9c7.png">
+        <img class="glide__slide rounded-md " width="200" src="https://i.imgur.com/gISB8D6.png">
+           <img class="glide__slide rounded-md " width="200"src="https://i.imgur.com/Ey63tRH.png">
+            <img class="glide__slide rounded-md " width="200" src="https://i.imgur.com/kSo9sdj.png">
+      </ul>
+    </div>
+  </div>
+  <script>
+    
+
+var glideHeroPeek = new Glide('.heropeek', {
+  type: 'carousel',
+  animationDuration: 1000,
+  autoplay: 3000,
+  focusAt: '1',
+  startAt: 1,
+  perView: 1,
+   // set a value to show the previous and next slides peeking in
+  peek: {
+    before: 20,
+    after: 20
+  },
+  gap: 0
+});
+
+glideHeroPeek.mount();
+      </script>
+       <p class="text-md md:text-xl mt-10 text-center">Newsfeed</p>
+<center>
+<div class="w-64"><a class="twitter-timeline" href="https://twitter.com/PaperCoreDev?ref_src=twsrc%5Etfw">Tweets by PaperCoreDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+</center>
+    </div>
+  </div>
+</div>
 </div>
     <!-- Footer-->
     <div class="bg-gray-100">
