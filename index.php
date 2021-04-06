@@ -70,7 +70,15 @@
 </div>
 </div>
 </header>
-    
+    <div class="mt-16">
+  <h4 class="heroprod text-3xl font-semibold text-center text-gray-800">
+       Flip Play
+    </h4>   
+   <p class="heroprod text-center text-gray-800">
+       Your 4G flip phone's secret, revealed.
+    </p>     
+</div>
+    <!-- Footer-->
     <div class="bg-gray-100">
    <div class="max-w-6xl m-auto text-gray-800 flex flex-wrap justify-center">
       <div class="p-5 w-48 ">
