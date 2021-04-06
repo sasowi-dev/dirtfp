@@ -52,37 +52,7 @@
           </a>
         </div>
       </div>
-        <p class="text-md md:text-xl mt-10 text-center">Screenshots</p>
-         <div class="glide__track" style="height:18rem;">
-    <div class="glide__track" data-glide-el="track">
-      <ul class="glide__slides">
-        <img class="glide__slide rounded-md " width="200" src="https://i.imgur.com/77UJ9c7.png">
-        <img class="glide__slide rounded-md " width="200" src="https://i.imgur.com/gISB8D6.png">
-           <img class="glide__slide rounded-md " width="200"src="https://i.imgur.com/Ey63tRH.png">
-            <img class="glide__slide rounded-md " width="200" src="https://i.imgur.com/kSo9sdj.png">
-      </ul>
-    </div>
-  </div>
-  <script>
-    
 
-var glideHeroPeek = new Glide('.heropeek', {
-  type: 'carousel',
-  animationDuration: 1000,
-  autoplay: 3000,
-  focusAt: '1',
-  startAt: 1,
-  perView: 1,
-   // set a value to show the previous and next slides peeking in
-  peek: {
-    before: 20,
-    after: 20
-  },
-  gap: 0
-});
-
-glideHeroPeek.mount();
-      </script>
        <p class="text-md md:text-xl mt-10 text-center">Newsfeed</p>
 <center>
 <div class="w-64"><a class="twitter-timeline" href="https://twitter.com/PaperCoreDev?ref_src=twsrc%5Etfw">Tweets by PaperCoreDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
