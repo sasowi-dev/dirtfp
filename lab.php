@@ -42,7 +42,25 @@
 </a>
 </div>
         </div>
-      dgdgdgdg
+<p><strong>Flip Play Lab - Experiment new technologies available for exalt LTE. For early adopters.</strong></p>
+<hr>
+<h1>2021.04.07 - Source code</h1>
+<p>As LG has ended mobile communications, LG recently opened their webpage to show their source code of exalt LTE and all other smart phones.</p>
+<p>You can build android 6.0.1 r19 by using source code of them. Although launcher, verizon apps, and calling history is still proprietary, their source code open is really impressive job.</p>
+<p>Visit <a href="//opensource.lge.com">opensource.lge.com</a></p>
+<h1><br></h1>
+<h1>ScrCpy - Now on web!</h1>
+<p><a href="https://github.com/NetrisTV/ws-scrcpy">https://github.com/NetrisTV/ws-scrcpy</a></p>
+<p>This brand-new web app offers you online scrcpy that recognizes server&apos;s USB via node.js.</p>
+<p><br></p>
+<h1>Flip Play 1.4 preview</h1>
+<p>※ We&apos;re not offering google play varient due to being against their policies.</p>
+<h2>Flip Play- Application store for Exalt LTE.</h2>
+<p>Guide:</p>
+<p>1. Install two apps - Chrome and 1.4 update file. (Get from our home page.)</p>
+<p>2. Open installed apps from launcher.</p>
+<p>3. Visit infinite world of Flip play.</p>
+<p>[We are supporting keypad browsing via &quot;브라우저&quot; app installed. Please install &quot;Chrome&quot; although you don&apos;t need it.]</p>
     </div>
   </div>
 </div>
