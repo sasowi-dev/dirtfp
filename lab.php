@@ -41,9 +41,7 @@
 <span class="mx-auto">About</span>
 </a>
 </div>
-        <h3 class='text-xl md:text-3xl mt-10'>Application store for 4G Flip phones,<br>now for Exalt LTE.</h3>
-        <p class="text-md md:text-xl mt-10">We are offering application that can be used for newly released flip phones.<br>Download our official app in your flip phone and start enjoying!</p>
-      </div>
+        </div>
       dgdgdgdg
     </div>
   </div>
