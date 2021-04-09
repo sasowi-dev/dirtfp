@@ -9,7 +9,7 @@
 <?php include '../header.php';?>
 
     <div class="mt-16">
- <div class="glide hero">
+ <div class="glide herop">
     <div class="glide__track" data-glide-el="track">
       <ul class="glide__slides">
         <img class="glide__slide " src="../promo/1.png">
@@ -20,7 +20,7 @@
   <script>
     
 
-var glideHeroPeek = new Glide('.heropeek', {
+var glideHeroPeek = new Glide('.herop', {
   type: 'carousel',
   animationDuration: 1000,
   autoplay: 3000,
