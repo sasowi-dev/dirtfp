@@ -77,7 +77,7 @@ glideHeroPeek.mount();
 			<div class="modal-content py-4 text-left px-6">
 				<!--Title-->
 				<div class="flex justify-between items-center pb-3">
-					<p class="text-2xl font-bold">결제 ($<span class="text-blue-700" id="payamount"></span>)</p>
+					<p class="text-2xl font-bold">결제 ($<span id="payamount"></span>)</p>
 					<div class="modal-close cursor-pointer z-50">
 						<svg class="fill-current text-black" xmlns="http://www.w3.org/2000/svg" width="18" height="18"
 							viewBox="0 0 18 18">
@@ -95,14 +95,14 @@ glideHeroPeek.mount();
 </div>
 </div>
 </div>
-					<p class="text-xs text-gray-500 py-2 tracking-wider">결제 수단</p>
+					<p class="text-xs text-gray-500 py-2 tracking-wider">결제 인증 방법</p>
 					<figure class="flex rounded-xl  p-0">
   <div class="text-left ">
     <blockquote>
     </blockquote>
     <figcaption class="font-medium">
       <div class="text-gray-500">
-       payments-fp@withun.link로 Google Play에서 구매한 어플리케이션의 영수증 사본을 전송하세요.
+       payments-fp@withun.link로 결제 관련 서류를 증명해 주세요.
       </div>
     </figcaption>
   </div>
@@ -156,7 +156,7 @@ glideHeroPeek.mount();
   try {
   $con= new PDO('mysql:host=localhost:3306;dbname=fpstre', "chocolatekos", "leegyubin!Lee06");
   $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-  $query = "SELECT * FROM skills";
+  $query = "SELECT * FROM skillgen2";
   //first pass just gets the column names
   print '<table class="min-w-full table-auto">';
   $result = $con->query($query);
