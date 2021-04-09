@@ -69,6 +69,9 @@ glideHeroPeek.mount();
       function appdown(package){
        window.open("https://flipstore.withun.link/application-cdn/"+package+".apk","_self"); 
       }
+      function incompleteapp(){
+	      alert('해당 어플리케이션은 아직 패키지 변조 대기열에 있습니다. 컴파일이 완료될 때 까지 기다려 주세요.');
+      }
     </script>
 	<div style="display:none;" class="main-modal fixed w-full h-100 inset-0 z-50 overflow-hidden flex justify-center items-center animated fadeIn faster"
 		style="background: rgba(0,0,0,.7);">
