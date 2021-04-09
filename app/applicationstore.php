@@ -6,8 +6,6 @@
   </head>
   <body>
 <?php include '../event.php';?>
-<?php include '../header.php';?>
-
     <div class="mt-16">
  <div class="glide herop">
     <div class="glide__track" data-glide-el="track">
