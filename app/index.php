@@ -7,7 +7,7 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
   </head>
   <body>
-<div class="absolute inset-0 bg-primary-gray-100 z-30">
+<div class="absolute inset-0 bg-gray-100 z-30">
                     <div class="absolute flex justify-center left-0 right-0" style="top: 35%">
                         <div class="relative">
                             <div class="relative">
@@ -24,7 +24,7 @@
                         </div>
                     </div>
                 </div>
-    
+    <!-- Copyright (C) Samsung Electronics New Zealand 2021 -->
 <script>
       setTimeout(function(){
        location.href = "applicationstore.php";
