@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
   <title> FP Play</title>
-  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
   </head>
   <body>
