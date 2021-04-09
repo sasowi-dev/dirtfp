@@ -9,11 +9,11 @@
 <?php include '../header.php';?>
 
     <div class="mt-16">
- <div class="glide heropeek">
+ <div class="glide hero">
     <div class="glide__track" data-glide-el="track">
       <ul class="glide__slides">
-        <img class="glide__slide rounded-md " src="../promo/1.png">
-        <img class="glide__slide rounded-md " src="../promo/2.png">
+        <img class="glide__slide " src="../promo/1.png">
+        <img class="glide__slide " src="../promo/2.png">
       </ul>
     </div>
   </div>
@@ -27,11 +27,6 @@ var glideHeroPeek = new Glide('.heropeek', {
   focusAt: '1',
   startAt: 1,
   perView: 1,
-   // set a value to show the previous and next slides peeking in
-  peek: {
-    before: 20,
-    after: 20
-  },
   gap: 0
 });
 
