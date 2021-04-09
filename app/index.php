@@ -2,7 +2,9 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<?php include '../dependencies.php';?>
+  <title> FP Play</title>
+  
+<link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
   </head>
   <body>
 <div class="absolute inset-0 bg-primary-gray-100 z-30">
