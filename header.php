@@ -13,6 +13,3 @@
 </div>
 </div>
 </header>
-<script>
-const swup = new Swup(); 
-</script>
