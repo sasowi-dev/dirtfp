@@ -22,7 +22,6 @@
 <meta property="twitter:image" content="https://flipstore.withun.link/identity/papercore_new.png">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/swup/2.0.14/swup.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css">
 
 <style>
