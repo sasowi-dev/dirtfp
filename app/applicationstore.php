@@ -185,7 +185,7 @@ glideHeroPeek.mount();
    echo 'ERROR: ' . $e->getMessage();
   } // end try
  ?>
-      
+      <a href="../app-us/" class="text-xl py-4 bg-white shadow-md  rounded-3xl text-gray-800 text-sm font-semibold ml-3 border border-gray-200 hover:shadow-xl transition-all w-36  focus:outline-none w-full text-center ">미국 서버로 이동</a>
       <!--FP이외 제한구역 끝-->
 </div>
     
