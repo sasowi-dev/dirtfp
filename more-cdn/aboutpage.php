@@ -91,7 +91,7 @@ by Samsung
 </div>
 <div class="absolute bottom-0 left-0 right-0 w-full bg-white text-center">
 <div class="relative w-full">
-  <a id="applyapp" class="text-xl font-semibold text-blue-500 py-4 w-full">
+  <a href="javascript:appdown()" id="applyapp" class="text-xl font-semibold text-blue-500 py-4 w-full">
 다운로드
   </a>
 </div>
